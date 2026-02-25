@@ -8,11 +8,14 @@
     <link rel="icon" href="icons/icon-192.png" />
     <link rel="apple-touch-icon" href="icons/icon-192.png" />
     <title>Entrenador telc B1</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <header class="topbar">
-      <h1>Entrenador telc B1</h1>
+      <h1>🇩🇪 Entrenador telc B1</h1>
       <button id="installBtn" class="ghost" hidden>Instalar</button>
     </header>
     <section id="goalTracker" class="goal-tracker" hidden>
@@ -29,7 +32,7 @@
       <section id="mode-quiz" class="mode active">
         <div class="mode-header">
           <h2>Quiz</h2>
-          <button id="quizNext" class="ghost">Siguiente</button>
+          <button id="quizNext" class="ghost">Siguiente →</button>
         </div>
         <div id="quizCard" class="card"></div>
       </section>
@@ -61,10 +64,10 @@
     </main>
 
     <nav class="bottom-nav">
-      <button data-mode="quiz" class="active">Quiz</button>
-      <button data-mode="exam">Examen</button>
-      <button data-mode="review">Repaso</button>
-      <button data-mode="progress">Progreso</button>
+      <button data-mode="quiz" class="active">📝 Quiz</button>
+      <button data-mode="exam">📋 Examen</button>
+      <button data-mode="review">📖 Repaso</button>
+      <button data-mode="progress">📊 Progreso</button>
     </nav>
 
     <div id="toast" class="toast" hidden></div>
