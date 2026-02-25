@@ -293,21 +293,66 @@ function updateExamTimer() {
 }
 
 function renderReview() {
-  const query = el.reviewSearch.value.trim().toLowerCase();
-  const rows = state.questions.filter((q) => {
-    if (!query) return true;
-    return (`${q.context} ${q.question} ${q.explanation_es}`).toLowerCase().includes(query);
-  }).slice(0, 200);
+  const EXAM_ORDER = ['PETRA','EVA1','SOPHIE','NADIA2','NICOLE','ANDREAS','ANNIKA3','IRIS1',
+                      'CAROLINA','VERA','JENNIFER','ANDREAS2','THOMAS','TAMARA','JAN','VIKTOR'];
+  const SECTION_ORDER = [
+    { section: 'Leseverstehen', teil: 1, label: 'Leseverstehen Teil 1' },
+    { section: 'Leseverstehen', teil: 2, label: 'Leseverstehen Teil 2' },
+    { section: 'Leseverstehen', teil: 3, label: 'Leseverstehen Teil 3' },
+    { section: 'Sprachbausteine', teil: 1, label: 'Sprachbausteine Teil 1' },
+    { section: 'Sprachbausteine', teil: 2, label: 'Sprachbausteine Teil 2' },
+  ];
 
-  el.reviewList.innerHTML = rows.map((q) => `
-    <details class="review-item">
-      <summary>${escapeHtml(q.exam)} · ${escapeHtml(q.section)} T${q.teil} · #${q.number}</summary>
-      <p><strong>Pregunta:</strong> ${escapeHtml(q.question)}</p>
-      <p class="muted"><strong>Correcta:</strong> ${escapeHtml(q.correct || '?')}</p>
-      <p>${escapeHtml(q.explanation_es || '')}</p>
-      ${renderVocab(q.vocabulary || [])}
-    </details>
-  `).join('') || '<p class="muted">Sin resultados.</p>';
+  const query = el.reviewSearch.value.trim().toLowerCase();
+  const filtered = state.questions.filter((q) => {
+    if (!query) return true;
+    return (`${q.exam} ${q.context} ${q.question} ${q.explanation_es}`).toLowerCase().includes(query);
+  });
+
+  // Group by exam → section/teil
+  const byExam = {};
+  for (const q of filtered) {
+    if (!byExam[q.exam]) byExam[q.exam] = [];
+    byExam[q.exam].push(q);
+  }
+
+  let html = '';
+  for (const exam of EXAM_ORDER) {
+    const examQs = byExam[exam];
+    if (!examQs || examQs.length === 0) continue;
+
+    html += `<details class="review-item" style="border-left:3px solid var(--accent);margin-bottom:12px">
+      <summary style="font-size:1.1rem;font-weight:700">📄 ${escapeHtml(exam)}</summary>
+      <div style="padding:8px 0">`;
+
+    for (const sec of SECTION_ORDER) {
+      const secQs = examQs
+        .filter((q) => q.section === sec.section && q.teil === sec.teil)
+        .sort((a, b) => a.number - b.number);
+      if (secQs.length === 0) continue;
+
+      html += `<h3 style="margin:16px 0 8px;color:var(--accent);font-size:0.95rem">${escapeHtml(sec.label)}</h3>`;
+
+      for (const q of secQs) {
+        const optsHtml = (q.options || []).map((o) => `<div style="padding:4px 0;border-bottom:1px solid var(--line)">${escapeHtml(String(o))}</div>`).join('');
+        html += `<details class="review-item" style="margin:6px 0">
+          <summary>#${q.number} — ${escapeHtml((q.question || '').substring(0, 80))}${q.question && q.question.length > 80 ? '…' : ''}</summary>
+          ${q.instruction ? `<p class="muted" style="font-size:0.85rem"><em>${escapeHtml(q.instruction)}</em></p>` : ''}
+          ${q.context && q.context.length > 10 ? `<div class="context" style="max-height:120px;margin:8px 0">${escapeHtml(q.context)}</div>` : ''}
+          <p><strong>Pregunta:</strong> ${escapeHtml(q.question || '')}</p>
+          ${q.question_es ? `<p class="translation-line">${escapeHtml(q.question_es)}</p>` : ''}
+          <div style="margin:8px 0">${optsHtml}</div>
+          <p class="muted"><strong>✅ Correcta:</strong> ${escapeHtml(q.correct || '?')}</p>
+          ${q.explanation_es ? `<p style="color:var(--muted);font-size:0.9rem">${escapeHtml(q.explanation_es)}</p>` : ''}
+          ${renderVocab(q.vocabulary || [])}
+        </details>`;
+      }
+    }
+
+    html += `</div></details>`;
+  }
+
+  el.reviewList.innerHTML = html || '<p class="muted">Sin resultados.</p>';
 }
 
 function resetProgress() {
