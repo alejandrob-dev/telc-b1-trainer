@@ -107,3 +107,62 @@ All files in this directory (`/home/claude-agent/telc-b1-app/`):
 - UI language: Spanish
 - Content language: German
 - Explanations in Spanish
+
+## Gamification & Progress Tracking (REQUIRED)
+
+### Daily Goal System
+- **Default daily goal: 60 minutes** of practice (configurable in settings)
+- Daily progress bar showing time studied today vs goal
+- When goal is met: celebration animation (confetti or similar)
+- Show "X/60 min" counter always visible during practice
+
+### Streak System
+- Track consecutive days where the daily goal was met
+- Show current streak prominently on home screen (🔥 streak counter)
+- Show longest streak record
+- If streak is about to break (studied yesterday but not today): show warning
+- Streak resets at midnight (user's local timezone)
+
+### Progress Dashboard
+- **Overall:** total questions answered, accuracy %, time studied
+- **Per section:** accuracy breakdown for Leseverstehen T1/T2/T3, Sprachbausteine T1/T2
+- **Per exam:** which exams completed, score per exam
+- **Mastery levels:** 
+  - 🔴 New (never answered)
+  - 🟡 Learning (answered but <70% accuracy)
+  - 🟢 Mastered (answered correctly 3+ times in a row)
+- **Weekly chart:** simple bar chart of minutes studied per day (last 7 days)
+- **Questions mastered:** X/640 total with progress bar
+
+### Spaced Repetition Enhancement
+- Questions answered wrong go into a "review queue"
+- Review queue questions appear 2x more frequently
+- After 3 correct answers in a row → marked as mastered
+- Mastered questions appear rarely (1 in 10 chance)
+
+### All data in localStorage (offline-first)
+
+### Exam Readiness Forecast
+Based on the user's study pace, calculate and display an estimated exam-ready date:
+
+**Inputs:**
+- Total questions in the bank (e.g., 640)
+- Questions mastered so far (3+ correct in a row)
+- Average questions mastered per study session
+- Average daily study time (rolling 7-day average)
+- Current accuracy % per section
+
+**Algorithm:**
+1. Calculate mastery velocity: questions mastered per day (rolling 7-day avg)
+2. Remaining questions = total - mastered
+3. Estimated days to complete = remaining / velocity
+4. Adjust for accuracy: if avg accuracy < 60%, multiply estimate by 1.5x (learning curve)
+5. Add buffer: +20% for review and consolidation
+
+**Display:**
+- 📅 "Fecha estimada: [DATE]" prominently on the Progress/Dashboard screen
+- Show confidence: "Al ritmo actual, estarás listo en ~X días"
+- If pace drops: warning "Tu ritmo bajó esta semana — a este paso, la fecha se mueve a [DATE]"
+- If pace increases: encouragement "¡Vas más rápido! Fecha adelantada a [DATE]"
+- Milestone markers: 25%, 50%, 75%, 100% mastery with projected dates
+- If not enough data yet (<3 days of study): show "Necesito más datos — sigue practicando unos días"

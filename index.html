@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0b1220" />
+    <link rel="manifest" href="manifest.json" />
+    <link rel="icon" href="icons/icon-192.png" />
+    <link rel="apple-touch-icon" href="icons/icon-192.png" />
+    <title>Entrenador telc B1</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1>Entrenador telc B1</h1>
+      <button id="installBtn" class="ghost" hidden>Instalar</button>
+    </header>
+
+    <main id="main" class="main">
+      <section id="mode-quiz" class="mode active">
+        <div class="mode-header">
+          <h2>Quiz</h2>
+          <button id="quizNext" class="ghost">Siguiente</button>
+        </div>
+        <div id="quizCard" class="card"></div>
+      </section>
+
+      <section id="mode-exam" class="mode">
+        <div class="mode-header">
+          <h2>Examen</h2>
+          <div id="examTimer" class="timer">60:00</div>
+        </div>
+        <div class="exam-actions">
+          <button id="examStart">Iniciar examen (40 preguntas)</button>
+          <button id="examFinish" class="ghost" disabled>Terminar</button>
+        </div>
+        <div id="examCard" class="card"></div>
+      </section>
+
+      <section id="mode-review" class="mode">
+        <div class="mode-header">
+          <h2>Repaso</h2>
+          <input id="reviewSearch" placeholder="Buscar palabra alemana..." />
+        </div>
+        <div id="reviewList" class="list"></div>
+      </section>
+
+      <section id="mode-progress" class="mode">
+        <div class="mode-header"><h2>Progreso</h2></div>
+        <div id="progressBox" class="card"></div>
+      </section>
+    </main>
+
+    <nav class="bottom-nav">
+      <button data-mode="quiz" class="active">Quiz</button>
+      <button data-mode="exam">Examen</button>
+      <button data-mode="review">Repaso</button>
+      <button data-mode="progress">Progreso</button>
+    </nav>
+
+    <div id="toast" class="toast" hidden></div>
+    <script src="app.js"></script>
+  </body>
+</html>

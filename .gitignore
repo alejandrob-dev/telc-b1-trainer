@@ -1,0 +1,5 @@
+telc-b1-pruefungsbuch.pdf
+telc-b1.txt
+*.ogg
+node_modules/
+__pycache__/
