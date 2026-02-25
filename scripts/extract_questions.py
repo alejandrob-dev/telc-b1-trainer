@@ -399,12 +399,20 @@ def build_exam_questions(exam_name, ex_lines):
             "flags": flags,
         })
 
+    # Fallback: when ads couldn't be extracted from OCR, provide letter options
+    # so the quiz is still functional (student matches against memorised ad letters)
+    if not lv3_opts:
+        lv3_opts = [
+            "A) Anzeige A", "B) Anzeige B", "C) Anzeige C", "D) Anzeige D",
+            "E) Anzeige E", "F) Anzeige F", "G) Anzeige G", "H) Anzeige H",
+            "I) Anzeige I", "J) Anzeige J", "K) Anzeige K", "L) Anzeige L",
+            "X) Keine passende Anzeige",
+        ]
+
     for n in range(11, 21):
         flags = []
         if not lv3_sit.get(n):
             flags.append("question_text_missing")
-        if not lv3_opts:
-            flags.append("options_missing")
         if ads_missing:
             flags.append("ads_missing")
         if n not in answers:
@@ -417,7 +425,7 @@ def build_exam_questions(exam_name, ex_lines):
             "type": "matching",
             "number": n,
             "instruction": instr_lv3,
-            "context": "",
+            "context": "(Die Anzeigentexte sind im OCR nicht vorhanden — siehe Prüfungsbuch S. 2-3)",
             "question": lv3_sit.get(n, f"Situation {n}"),
             "question_es": "",
             "options": lv3_opts,
