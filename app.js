@@ -294,7 +294,7 @@ function updateExamTimer() {
 
 function renderReview() {
   const EXAM_ORDER = ['PETRA','EVA1','SOPHIE','NADIA2','NICOLE','ANDREAS','ANNIKA3','IRIS1',
-                      'CAROLINA','VERA','JENNIFER','ANDREAS2','THOMAS','TAMARA','JAN','VIKTOR'];
+                      'CAROLINA','VERA','JENNIFER','ANDREAS2','THOMAS','TAMARA','JAN','VIKTOR','RITA'];
   const SECTION_ORDER = [
     { section: 'Leseverstehen', teil: 1, label: 'Leseverstehen Teil 1' },
     { section: 'Leseverstehen', teil: 2, label: 'Leseverstehen Teil 2' },
