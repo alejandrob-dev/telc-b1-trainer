@@ -18606,8 +18606,25 @@
     "question_es": "",
     "options": [],
     "correct": "I",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La pregunta indica el deseo de aprender a bailar. La respuesta correcta 'I' (según la clave) debe corresponder a un texto que ofrezca clases de baile o una escuela de danza. Sin el texto 'I', no podemos dar más detalles sobre su contenido.",
+    "vocabulary": [
+      {
+        "de": "tanzen",
+        "es": "bailar"
+      },
+      {
+        "de": "lernen",
+        "es": "aprender"
+      },
+      {
+        "de": "Tanzkurs",
+        "es": "curso de baile"
+      },
+      {
+        "de": "Tanzschule",
+        "es": "escuela de baile"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -18626,8 +18643,25 @@
     "question_es": "",
     "options": [],
     "correct": "F",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La pregunta describe a alguien con experiencia en hostelería que quiere dirigir un restaurante. La respuesta correcta 'F' (según la clave) debe ser un anuncio de trabajo para un gerente de restaurante o un curso de gestión hostelera. Sin el texto 'F', no podemos dar más detalles sobre su contenido.",
+    "vocabulary": [
+      {
+        "de": "Berufserfahrung",
+        "es": "experiencia laboral"
+      },
+      {
+        "de": "Gaststätte",
+        "es": "restaurante/bar"
+      },
+      {
+        "de": "leiten",
+        "es": "dirigir"
+      },
+      {
+        "de": "Restaurant",
+        "es": "restaurante"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -18646,8 +18680,29 @@
     "question_es": "",
     "options": [],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La pregunta expresa el deseo de ver películas de países africanos. La respuesta correcta 'B' (según la clave) debe ser un programa de cine, un festival o una proyección de películas africanas. Sin el texto 'B', no podemos dar más detalles sobre su contenido.",
+    "vocabulary": [
+      {
+        "de": "Film",
+        "es": "película"
+      },
+      {
+        "de": "afrikanisch",
+        "es": "africano"
+      },
+      {
+        "de": "Land",
+        "es": "país"
+      },
+      {
+        "de": "sehen",
+        "es": "ver"
+      },
+      {
+        "de": "Kino",
+        "es": "cine"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -18666,8 +18721,29 @@
     "question_es": "",
     "options": [],
     "correct": "X",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La pregunta busca un curso de fotografía que se imparta por la tarde/noche. La respuesta correcta 'X' (según la clave) debe ser un anuncio de un curso de fotografía con horario vespertino. Sin el texto 'X', no podemos dar más detalles sobre su contenido.",
+    "vocabulary": [
+      {
+        "de": "Fotografie",
+        "es": "fotografía"
+      },
+      {
+        "de": "Kurs",
+        "es": "curso"
+      },
+      {
+        "de": "besuchen",
+        "es": "asistir"
+      },
+      {
+        "de": "abends",
+        "es": "por la tarde/noche"
+      },
+      {
+        "de": "Zeit",
+        "es": "tiempo"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -18690,8 +18766,29 @@
       "C) vor"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'seit'. 'Seit' se usa para indicar el inicio de una acción que continúa en el presente. 'Sechs Wochen' es un período de tiempo que empezó hace seis semanas y sigue. 'Ab' se usa para un punto de inicio futuro. 'Vor' se usa para un evento pasado y terminado.",
+    "vocabulary": [
+      {
+        "de": "wohnen",
+        "es": "vivir"
+      },
+      {
+        "de": "seit",
+        "es": "desde (hace)"
+      },
+      {
+        "de": "Woche",
+        "es": "semana"
+      },
+      {
+        "de": "neu",
+        "es": "nuevo"
+      },
+      {
+        "de": "Wohnung",
+        "es": "apartamento"
+      }
+    ],
     "flags": []
   },
   {
@@ -18711,8 +18808,25 @@
       "C) aussuchten die uns wird"
     ],
     "correct": "c",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta según el texto original es 'uns'. 'Wir wünschen uns das' significa 'nosotros nos deseamos eso' o 'nosotros deseamos eso para nosotros'. Es una construcción reflexiva con el verbo 'wünschen'. Las opciones dadas en la pregunta no contienen 'uns' y no encajan gramaticalmente ni semánticamente en la frase. Por ejemplo, 'ihnen das hat' es incorrecto. 'den ist' no tiene sentido. 'aussuchten die uns wird' es una mezcla de verbos y pronombres que no forma una frase coherente aquí.",
+    "vocabulary": [
+      {
+        "de": "wünschen",
+        "es": "desear"
+      },
+      {
+        "de": "uns",
+        "es": "nos/a nosotros"
+      },
+      {
+        "de": "wie",
+        "es": "como"
+      },
+      {
+        "de": "reflexiv",
+        "es": "reflexivo"
+      }
+    ],
     "flags": []
   },
   {
@@ -18732,8 +18846,25 @@
       "C) aussuchten"
     ],
     "correct": "a",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta según el texto original es 'dauern'. 'Dass das einige Zeit dauern würde' significa 'que eso duraría algún tiempo'. 'Dauern' (durar) es el verbo adecuado para expresar la duración de un proceso. Las opciones dadas en la pregunta no incluyen 'dauern'. 'Ihnen' es un pronombre, 'den' es un artículo/pronombre, 'aussuchten' es un verbo en pasado que no encaja aquí.",
+    "vocabulary": [
+      {
+        "de": "dauern",
+        "es": "durar"
+      },
+      {
+        "de": "Zeit",
+        "es": "tiempo"
+      },
+      {
+        "de": "einige",
+        "es": "alguno/a"
+      },
+      {
+        "de": "würde",
+        "es": "condicional de werden"
+      }
+    ],
     "flags": []
   },
   {
@@ -18753,8 +18884,25 @@
       "C) die"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta según el texto original es 'aussuchen'. La frase completa sería 'bis alles ausgesucht ist' (hasta que todo esté elegido) o 'bis alle aussuchen' (hasta que todos elijan). 'Aussuchen' significa 'elegir'. Las opciones dadas en la pregunta no incluyen 'aussuchen'. 'Hat' (tener) e 'ist' (ser/estar) son verbos auxiliares que no completan el sentido de 'elegir' por sí solos aquí. 'Die' es un artículo o pronombre.",
+    "vocabulary": [
+      {
+        "de": "aussuchen",
+        "es": "elegir"
+      },
+      {
+        "de": "bis",
+        "es": "hasta que"
+      },
+      {
+        "de": "alle",
+        "es": "todos/as"
+      },
+      {
+        "de": "Verb",
+        "es": "verbo"
+      }
+    ],
     "flags": []
   },
   {
@@ -18774,8 +18922,25 @@
       "C) gedauert davon"
     ],
     "correct": "a",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. La opción 'A' indicada como correcta ('A ausgesucht daran') no contiene la palabra 'hat', que es la respuesta correcta según el contexto ('25 a hat') para la Lücke 25. 'Hat' es la forma de 'haben' en Perfekt para la tercera persona singular.",
+    "vocabulary": [
+      {
+        "de": "hat",
+        "es": "tiene (Perfekt)"
+      },
+      {
+        "de": "haben",
+        "es": "tener"
+      },
+      {
+        "de": "Perfekt",
+        "es": "Pretérito perfecto"
+      },
+      {
+        "de": "Wohnung",
+        "es": "apartamento"
+      }
+    ],
     "flags": []
   },
   {
@@ -18795,8 +18960,25 @@
       "C) uns"
     ],
     "correct": "a",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. La opción 'A' indicada como correcta ('dauern') no contiene la palabra 'daran', que es la respuesta correcta según el contexto ('26 a daran') para la Lücke 26. 'Daran' es un pronombre adverbial que se refiere a algo mencionado antes.",
+    "vocabulary": [
+      {
+        "de": "daran",
+        "es": "en ello / de ello"
+      },
+      {
+        "de": "Pronominaladverb",
+        "es": "pronombre adverbial"
+      },
+      {
+        "de": "dauern",
+        "es": "durar"
+      },
+      {
+        "de": "sich erinnern an",
+        "es": "recordar algo"
+      }
+    ],
     "flags": []
   },
   {
@@ -18816,8 +18998,25 @@
       "C) gedauert"
     ],
     "correct": "c",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. La opción 'C' indicada como correcta ('gedauert') no contiene la palabra 'die', que es la respuesta correcta según el contexto ('27 C die') para la Lücke 27. 'Die' puede ser un artículo definido o un pronombre relativo.",
+    "vocabulary": [
+      {
+        "de": "die",
+        "es": "la / las / que"
+      },
+      {
+        "de": "Artikel",
+        "es": "artículo"
+      },
+      {
+        "de": "Relativpronomen",
+        "es": "pronombre relativo"
+      },
+      {
+        "de": "gedauert",
+        "es": "durado"
+      }
+    ],
     "flags": []
   },
   {
@@ -18837,8 +19036,25 @@
       "C) davon"
     ],
     "correct": "a",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. La opción 'A' indicada como correcta ('unser') no contiene la palabra 'nächsten', que es la respuesta correcta según el contexto ('28 a nächsten') para la Lücke 28. 'Nächsten' es un adjetivo que significa 'siguiente'.",
+    "vocabulary": [
+      {
+        "de": "nächsten",
+        "es": "siguiente / próximos"
+      },
+      {
+        "de": "Adjektiv",
+        "es": "adjetivo"
+      },
+      {
+        "de": "unser",
+        "es": "nuestro"
+      },
+      {
+        "de": "Zeit",
+        "es": "tiempo"
+      }
+    ],
     "flags": []
   },
   {
@@ -18858,8 +19074,25 @@
       "C) würden SOPHIE"
     ],
     "correct": "c",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'würden'. La opción 'C' ('würden SOPHIE') contiene la palabra 'würden', que coincide con la respuesta del contexto ('29 C würden'). 'Würden' es la forma de Konjunktiv II de 'werden'. Se usa para expresar deseos, posibilidades o situaciones hipotéticas.",
+    "vocabulary": [
+      {
+        "de": "würden",
+        "es": "harían / serían (Konjunktiv II)"
+      },
+      {
+        "de": "Konjunktiv II",
+        "es": "subjuntivo II"
+      },
+      {
+        "de": "werden",
+        "es": "llegar a ser"
+      },
+      {
+        "de": "hypothetisch",
+        "es": "hipotético"
+      }
+    ],
     "flags": []
   },
   {
@@ -18878,8 +19111,25 @@
       "C) unserer unseres nächstes"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. La 'correcta' indicada es 'b', pero no existe la opción 'B' entre las opciones dadas. La palabra correcta según el contexto ('30 b unserer') para la Lücke 30 es 'unserer'. Es un pronombre posesivo en genitivo o dativo.",
+    "vocabulary": [
+      {
+        "de": "unserer",
+        "es": "de nuestra / a nuestra"
+      },
+      {
+        "de": "Possessivpronomen",
+        "es": "pronombre posesivo"
+      },
+      {
+        "de": "Genitiv",
+        "es": "genitivo"
+      },
+      {
+        "de": "Dativ",
+        "es": "dativo"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -18913,8 +19163,25 @@
       "O) WERDE"
     ],
     "correct": "I",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'SCHNELLE'. La frase es 'vielen Dank für die (31) Zusendung'. 'Zusendung' es femenino ('die Zusendung'). 'Schnelle' es la forma correcta del adjetivo para concordar con 'die Zusendung' en acusativo femenino singular. Significa 'rápido envío'.",
+    "vocabulary": [
+      {
+        "de": "schnelle",
+        "es": "rápida"
+      },
+      {
+        "de": "Zusendung",
+        "es": "envío"
+      },
+      {
+        "de": "Adjektivdeklination",
+        "es": "declinación de adjetivos"
+      },
+      {
+        "de": "feminin",
+        "es": "femenino"
+      }
+    ],
     "flags": []
   },
   {
@@ -18946,8 +19213,25 @@
       "O) WERDE"
     ],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'AUCH'. La frase usa la construcción 'sowohl ... als auch', que significa 'tanto ... como'. Es una conjunción doble fija en alemán. 'Auch' completa esta estructura correctamente.",
+    "vocabulary": [
+      {
+        "de": "auch",
+        "es": "también"
+      },
+      {
+        "de": "sowohl ... als auch",
+        "es": "tanto ... como"
+      },
+      {
+        "de": "Konjunktion",
+        "es": "conjunción"
+      },
+      {
+        "de": "feststehend",
+        "es": "fijo"
+      }
+    ],
     "flags": []
   },
   {
@@ -18979,8 +19263,21 @@
       "O) WERDE"
     ],
     "correct": "D",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"einige\". \"Einige\" (algunas/os) concuerda con \"Fragen\" (preguntas), que es plural. Se usa para indicar una cantidad indeterminada. \"Eine\" (una) sería singular y no encaja. Otras opciones no son adjetivos.",
+    "vocabulary": [
+      {
+        "de": "einige",
+        "es": "algunas/os"
+      },
+      {
+        "de": "Fragen",
+        "es": "preguntas"
+      },
+      {
+        "de": "noch",
+        "es": "todavía"
+      }
+    ],
     "flags": []
   },
   {
@@ -19012,8 +19309,21 @@
       "O) WERDE"
     ],
     "correct": "J",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"schon\". \"Schon\" (ya) se usa para preguntar si algo ha ocurrido o está completo. \"Ist schon ausgebucht?\" (¿Ya está completo?) es una expresión común. Otras opciones no tienen sentido en este contexto.",
+    "vocabulary": [
+      {
+        "de": "schon",
+        "es": "ya"
+      },
+      {
+        "de": "ausgebucht",
+        "es": "completo/reservado"
+      },
+      {
+        "de": "Veranstaltung",
+        "es": "evento/curso"
+      }
+    ],
     "flags": []
   },
   {
@@ -19045,8 +19355,21 @@
       "O) WERDE"
     ],
     "correct": "E",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"könnten\". \"Könnten Sie mir bitte sagen...\" (¿Podría usted decirme...?) es una forma muy educada de hacer una pregunta. Es el Konjunktiv II del verbo \"können\". Otros verbos modales no encajan gramaticalmente o semánticamente.",
+    "vocabulary": [
+      {
+        "de": "könnten",
+        "es": "podrían (educado)"
+      },
+      {
+        "de": "sagen",
+        "es": "decir"
+      },
+      {
+        "de": "freie Plätze",
+        "es": "plazas libres"
+      }
+    ],
     "flags": []
   },
   {
@@ -19078,8 +19401,21 @@
       "O) WERDE"
     ],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"beiden\". El texto menciona dos seminarios antes (\"sowohl... als auch...\"). \"Beiden\" (ambos/as) se refiere a estos dos seminarios específicos. Es la única opción que indica \"dos\" cosas. Gramaticalmente, se usaría \"für die beiden Seminare\" o \"für beide Seminare\", pero \"beiden\" es la mejor opción de la lista.",
+    "vocabulary": [
+      {
+        "de": "beiden",
+        "es": "ambos/as"
+      },
+      {
+        "de": "interessieren sich für",
+        "es": "interesarse por"
+      },
+      {
+        "de": "Seminare",
+        "es": "seminarios"
+      }
+    ],
     "flags": []
   },
   {
@@ -19111,8 +19447,21 @@
       "O) WERDE"
     ],
     "correct": "N",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"wann\". \"Wann\" (cuándo) es la palabra interrogativa para preguntar por el tiempo o la fecha de un evento. \"Wann finden die Seminare statt?\" (¿Cuándo tienen lugar los seminarios?) es una pregunta directa. \"Ob\" se usa para preguntas indirectas.",
+    "vocabulary": [
+      {
+        "de": "wann",
+        "es": "cuándo"
+      },
+      {
+        "de": "stattfinden",
+        "es": "tener lugar"
+      },
+      {
+        "de": "Seminare",
+        "es": "seminarios"
+      }
+    ],
     "flags": []
   },
   {
@@ -19144,8 +19493,21 @@
       "O) WERDE"
     ],
     "correct": "F",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"möchte\". \"Ich möchte mich interessieren\" (Me gustaría interesarme) expresa un deseo de forma educada. Esto encaja con el tono formal de la carta. Otros verbos modales no concuerdan con \"Ich\" o cambian el significado.",
+    "vocabulary": [
+      {
+        "de": "möchte",
+        "es": "me gustaría"
+      },
+      {
+        "de": "Kosten",
+        "es": "costos"
+      },
+      {
+        "de": "interessieren",
+        "es": "interesar"
+      }
+    ],
     "flags": []
   },
   {
@@ -19177,8 +19539,21 @@
       "O) WERDE"
     ],
     "correct": "H",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"ob\". \"Ob\" (si) introduce una pregunta indirecta. Aquí, la persona pide que le informen \"si\" existe un descuento. \"Bitte teilen Sie mir mit, ob es... gibt\" es una frase estándar. \"Wann\" preguntaría por el momento, no por la existencia.",
+    "vocabulary": [
+      {
+        "de": "ob",
+        "es": "si (pregunta indirecta)"
+      },
+      {
+        "de": "mitteilen",
+        "es": "informar"
+      },
+      {
+        "de": "Frühbucherrabatt",
+        "es": "descuento anticipado"
+      }
+    ],
     "flags": []
   },
   {
@@ -19210,8 +19585,21 @@
       "O) WERDE"
     ],
     "correct": "O",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"werde\". \"Ich werde mich freuen\" (Me alegraré) usa el futuro para expresar una expectativa. Es una forma educada y común de cerrar una carta formal, esperando una respuesta. Otros verbos no encajan gramaticalmente o semánticamente.",
+    "vocabulary": [
+      {
+        "de": "werde",
+        "es": "me alegraré (futuro)"
+      },
+      {
+        "de": "freuen sich über",
+        "es": "alegrarse por"
+      },
+      {
+        "de": "baldige Antwort",
+        "es": "pronta respuesta"
+      }
+    ],
     "flags": []
   },
   {
@@ -19238,8 +19626,29 @@
       "J) Filmaufnahmen im Berner Oberland"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'J'. El texto habla de directores indios filmando películas en las montañas suizas, específicamente en el 'Berner Oberland'. La opción 'J' ('Filmaufnahmen im Berner Oberland') describe exactamente este contenido.",
+    "vocabulary": [
+      {
+        "de": "drehen",
+        "es": "filmar"
+      },
+      {
+        "de": "Kinofilme",
+        "es": "películas de cine"
+      },
+      {
+        "de": "Drehplatz",
+        "es": "lugar de rodaje"
+      },
+      {
+        "de": "Berner Oberland",
+        "es": "Oberland bernés (región de Suiza)"
+      },
+      {
+        "de": "Filmaufnahmen",
+        "es": "grabaciones de películas"
+      }
+    ],
     "flags": [
       "missing_answer_key"
     ]
@@ -19268,8 +19677,29 @@
       "J) Filmaufnahmen im Berner Oberland"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'C'. El texto describe 'KIDTOURS' como un 'Ausflugsführer' (guía de excursiones) para familias, disponible en 'Buchhandel' (librerías). Esto es claramente una recomendación de un libro para excursiones familiares.",
+    "vocabulary": [
+      {
+        "de": "Ausflugsführer",
+        "es": "guía de excursiones"
+      },
+      {
+        "de": "Familien",
+        "es": "familias"
+      },
+      {
+        "de": "Buchhandel",
+        "es": "librería"
+      },
+      {
+        "de": "Buchtipp",
+        "es": "recomendación de libro"
+      },
+      {
+        "de": "Tipps",
+        "es": "consejos"
+      }
+    ],
     "flags": [
       "missing_answer_key"
     ]
@@ -19298,8 +19728,29 @@
       "J) Filmaufnahmen im Berner Oberland"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'B'. El texto presenta el 'Halbtax-Abo' como una forma de 'günstigen Reisen' (viajes económicos) por un año ('Für ein Jahr halbtaxeln'). Ofrece descuentos en trenes, autobuses y barcos. La opción 'B' ('Ein Jahr preiswert reisen') resume perfectamente esta idea.",
+    "vocabulary": [
+      {
+        "de": "Halbtax-Abo",
+        "es": "abono de media tarifa"
+      },
+      {
+        "de": "günstigen Reisen",
+        "es": "viajes económicos"
+      },
+      {
+        "de": "sparen",
+        "es": "ahorrar"
+      },
+      {
+        "de": "Preisnachlass",
+        "es": "descuento"
+      },
+      {
+        "de": "preiswert",
+        "es": "barato, económico"
+      }
+    ],
     "flags": [
       "missing_answer_key"
     ]
@@ -19328,8 +19779,29 @@
       "J) Filmaufnahmen im Berner Oberland"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'I'. El texto explica el concepto de 'Doku-Soap' en la televisión alemana, donde se puede 'das wirkliche Leben von Menschen verfolgen' (seguir la vida real de las personas). Menciona un programa exitoso que 'täglich' (diariamente) atrae a muchos espectadores. La opción 'I' ('Jeden Tag ein Stück Wirklichkeit im Fernsehen') describe este tipo de contenido de telerrealidad.",
+    "vocabulary": [
+      {
+        "de": "Doku-Soap",
+        "es": "docu-reality"
+      },
+      {
+        "de": "TV Kanälen",
+        "es": "canales de televisión"
+      },
+      {
+        "de": "wirkliche Leben",
+        "es": "vida real"
+      },
+      {
+        "de": "Fernsehen",
+        "es": "televisión"
+      },
+      {
+        "de": "täglich",
+        "es": "diariamente"
+      }
+    ],
     "flags": [
       "missing_answer_key"
     ]
@@ -19358,8 +19830,29 @@
       "J) Filmaufnahmen im Berner Oberland"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'E'. El texto es una oferta de 'Deutsche Bahn' para ayudar con la 'Berufswahl' (elección de carrera). Se presenta como 'ein Unternehmen mit Zukunft' (una empresa con futuro) y menciona '15 Lehrberufen' (15 profesiones de aprendizaje) para elegir. La opción 'E' ('Ein Unternehmen mit vielen beruflichen Möglichkeiten') resume la idea de una empresa con diversas oportunidades laborales.",
+    "vocabulary": [
+      {
+        "de": "Berufswahl",
+        "es": "elección de carrera"
+      },
+      {
+        "de": "Unternehmen",
+        "es": "empresa"
+      },
+      {
+        "de": "Zukunft",
+        "es": "futuro"
+      },
+      {
+        "de": "Lehrberufen",
+        "es": "profesiones de aprendizaje"
+      },
+      {
+        "de": "beruflichen Möglichkeiten",
+        "es": "oportunidades profesionales"
+      }
+    ],
     "flags": [
       "missing_answer_key"
     ]
@@ -19381,8 +19874,29 @@
       "C) besonders intelligente Schüler weniger Probleme im alltäglichen Leben haben."
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. El contexto proporcionado está incompleto. No hay suficiente información en el texto para determinar qué opina la psicóloga de la Popper-Schule sobre los alumnos inteligentes.",
+    "vocabulary": [
+      {
+        "de": "Psychologin",
+        "es": "psicóloga"
+      },
+      {
+        "de": "Schule",
+        "es": "escuela"
+      },
+      {
+        "de": "intelligent",
+        "es": "inteligente"
+      },
+      {
+        "de": "Schüler",
+        "es": "alumnos"
+      },
+      {
+        "de": "Probleme",
+        "es": "problemas"
+      }
+    ],
     "flags": [
       "missing_answer_key"
     ]
@@ -19403,8 +19917,29 @@
       "C) sich die Zeit zum Lernen besser als andere einteilen können."
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. El contexto proporcionado está incompleto. No hay suficiente información en el texto para describir qué es típico de los alumnos con inteligencia superior a la media.",
+    "vocabulary": [
+      {
+        "de": "überdurchschnittlich",
+        "es": "por encima de la media"
+      },
+      {
+        "de": "intelligent",
+        "es": "inteligente"
+      },
+      {
+        "de": "Schüler",
+        "es": "alumnos"
+      },
+      {
+        "de": "Noten",
+        "es": "notas"
+      },
+      {
+        "de": "Erfolg",
+        "es": "éxito"
+      }
+    ],
     "flags": [
       "options_missing",
       "missing_answer_key"
@@ -19426,8 +19961,29 @@
       "C) in kleinen Gruppen schwächeren Schülern helfen."
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. El contexto proporcionado está incompleto. No hay suficiente información en el texto para saber qué se espera de los alumnos en las clases de la Popper-Schule.",
+    "vocabulary": [
+      {
+        "de": "Unterricht",
+        "es": "clase, enseñanza"
+      },
+      {
+        "de": "Schüler",
+        "es": "alumnos"
+      },
+      {
+        "de": "sprechen",
+        "es": "hablar"
+      },
+      {
+        "de": "Fremdsprache",
+        "es": "idioma extranjero"
+      },
+      {
+        "de": "helfen",
+        "es": "ayudar"
+      }
+    ],
     "flags": [
       "options_missing",
       "missing_answer_key"
@@ -19449,8 +20005,29 @@
       "C) sie noch nicht wussten, welche besonderen Talente sie hatten."
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta no está disponible. El texto de contexto proporcionado es incompleto y no contiene la información necesaria para determinar por qué la primera etapa en la escuela Popper fue difícil para los alumnos. Faltan detalles sobre las dificultades iniciales. Palabras clave: primera vez, difícil, alumnos, escuela.",
+    "vocabulary": [
+      {
+        "de": "die erste Zeit",
+        "es": "la primera vez/época"
+      },
+      {
+        "de": "schwer",
+        "es": "difícil"
+      },
+      {
+        "de": "die Schüler",
+        "es": "los alumnos"
+      },
+      {
+        "de": "die Schule",
+        "es": "la escuela"
+      },
+      {
+        "de": "weil",
+        "es": "porque"
+      }
+    ],
     "flags": [
       "options_missing",
       "missing_answer_key"
@@ -19472,8 +20049,29 @@
       "C) die von den insgesamt 28 Lehrern als intelligent beschrieben werden. TAMARA"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta no está disponible. El texto de contexto proporcionado es incompleto y no contiene la información necesaria para determinar los criterios de admisión de los alumnos en la escuela Popper. Faltan detalles sobre los requisitos de ingreso. Palabras clave: admitir, alumnos, escuela, criterios.",
+    "vocabulary": [
+      {
+        "de": "aufgenommen werden",
+        "es": "ser admitido/a"
+      },
+      {
+        "de": "nur",
+        "es": "solo"
+      },
+      {
+        "de": "die Schüler",
+        "es": "los alumnos"
+      },
+      {
+        "de": "die Schule",
+        "es": "la escuela"
+      },
+      {
+        "de": "die Aufnahmeprüfung",
+        "es": "el examen de admisión"
+      }
+    ],
     "flags": [
       "options_missing",
       "missing_answer_key"
@@ -19492,8 +20090,29 @@
     "question_es": "",
     "options": [],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta no está disponible. Esta es una pregunta de tipo 'matching' (emparejar) y requiere un texto de contexto con diferentes anuncios u opciones para poder encontrar la que coincide con la descripción. Sin el texto, no se puede determinar la respuesta. Palabras clave: buscar, niños, camas, precio.",
+    "vocabulary": [
+      {
+        "de": "suchen",
+        "es": "buscar"
+      },
+      {
+        "de": "die Kinder",
+        "es": "los niños"
+      },
+      {
+        "de": "die Betten",
+        "es": "las camas"
+      },
+      {
+        "de": "höchstens",
+        "es": "como máximo"
+      },
+      {
+        "de": "ausgeben",
+        "es": "gastar"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing",
@@ -19513,8 +20132,25 @@
     "question_es": "",
     "options": [],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta no está disponible. Esta es una pregunta de tipo 'matching' (emparejar) y requiere un texto de contexto con diferentes anuncios u opciones para poder encontrar la que coincide con la descripción. Sin el texto, no se puede determinar la respuesta. Palabras clave: problemas, espalda, buscar, cama de salud.",
+    "vocabulary": [
+      {
+        "de": "Probleme haben",
+        "es": "tener problemas"
+      },
+      {
+        "de": "der Rücken",
+        "es": "la espalda"
+      },
+      {
+        "de": "suchen",
+        "es": "buscar"
+      },
+      {
+        "de": "das Gesundheitsbett",
+        "es": "la cama de salud"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing",
@@ -19534,8 +20170,29 @@
     "question_es": "",
     "options": [],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta no está disponible. Esta es una pregunta de tipo 'matching' (emparejar) y requiere un texto de contexto con diferentes anuncios u opciones para poder encontrar la que coincide con la descripción. Sin el texto, no se puede determinar la respuesta. Palabras clave: buscar, sofá, bonito, cama de invitados.",
+    "vocabulary": [
+      {
+        "de": "suchen",
+        "es": "buscar"
+      },
+      {
+        "de": "schön",
+        "es": "bonito/a"
+      },
+      {
+        "de": "das Sofa",
+        "es": "el sofá"
+      },
+      {
+        "de": "benutzen",
+        "es": "usar"
+      },
+      {
+        "de": "das Gästebett",
+        "es": "la cama de invitados"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing",
@@ -19555,8 +20212,25 @@
     "question_es": "",
     "options": [],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta no está disponible. Esta es una pregunta de tipo 'matching' (emparejar) y requiere un texto de contexto con diferentes anuncios u opciones para poder encontrar la que coincide con la descripción. Sin el texto, no se puede determinar la respuesta. Palabras clave: antes, viaje, bicicleta, revisar.",
+    "vocabulary": [
+      {
+        "de": "vor",
+        "es": "antes de"
+      },
+      {
+        "de": "die Urlaubsreise",
+        "es": "el viaje de vacaciones"
+      },
+      {
+        "de": "das Fahrrad",
+        "es": "la bicicleta"
+      },
+      {
+        "de": "überprüfen lassen",
+        "es": "hacer revisar"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing",
@@ -19576,8 +20250,29 @@
     "question_es": "",
     "options": [],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta no está disponible. Esta es una pregunta de tipo 'matching' (emparejar) y requiere un texto de contexto con diferentes anuncios u opciones para poder encontrar la que coincide con la descripción. Sin el texto, no se puede determinar la respuesta. Palabras clave: amigos, tour en bici, organizado, oferta.",
+    "vocabulary": [
+      {
+        "de": "die Freunde",
+        "es": "los amigos"
+      },
+      {
+        "de": "die Radtour",
+        "es": "el tour en bicicleta"
+      },
+      {
+        "de": "organisiert",
+        "es": "organizado/a"
+      },
+      {
+        "de": "suchen",
+        "es": "buscar"
+      },
+      {
+        "de": "das Angebot",
+        "es": "la oferta"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing",
@@ -19597,8 +20292,29 @@
     "question_es": "",
     "options": [],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta no está disponible. Esta es una pregunta de tipo 'matching' (emparejar) y requiere un texto de contexto con diferentes anuncios u opciones para poder encontrar la que coincide con la descripción. Sin el texto, no se puede determinar la respuesta. Palabras clave: parientes, vacaciones, lugar, mar.",
+    "vocabulary": [
+      {
+        "de": "die Verwandten",
+        "es": "los parientes"
+      },
+      {
+        "de": "der Urlaub",
+        "es": "las vacaciones"
+      },
+      {
+        "de": "die Woche",
+        "es": "la semana"
+      },
+      {
+        "de": "der Ferienort",
+        "es": "el lugar de vacaciones"
+      },
+      {
+        "de": "am Meer",
+        "es": "en el mar/junto al mar"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing",
@@ -19618,8 +20334,21 @@
     "question_es": "",
     "options": [],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "No se puede determinar la respuesta correcta. La pregunta es de tipo 'matching' y no se proporciona el contexto ni las opciones para emparejar. La respuesta correcta es '?'",
+    "vocabulary": [
+      {
+        "de": "Küchenhilfe",
+        "es": "ayudante de cocina"
+      },
+      {
+        "de": "Vormittag",
+        "es": "mañana"
+      },
+      {
+        "de": "Stelle",
+        "es": "puesto de trabajo"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing",
@@ -19639,8 +20368,21 @@
     "question_es": "",
     "options": [],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "No se puede determinar la respuesta correcta. La pregunta es de tipo 'matching' y no se proporciona el contexto ni las opciones para emparejar. La respuesta correcta es '?'",
+    "vocabulary": [
+      {
+        "de": "leichte Arbeit",
+        "es": "trabajo fácil"
+      },
+      {
+        "de": "abends",
+        "es": "por las tardes"
+      },
+      {
+        "de": "Geld dazuzuverdienen",
+        "es": "ganar dinero extra"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing",
@@ -19660,8 +20402,21 @@
     "question_es": "",
     "options": [],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "No se puede determinar la respuesta correcta. La pregunta es de tipo 'matching' y no se proporciona el contexto ni las opciones para emparejar. La respuesta correcta es '?'",
+    "vocabulary": [
+      {
+        "de": "Bekannte",
+        "es": "conocida"
+      },
+      {
+        "de": "Bedienung",
+        "es": "camarero/a"
+      },
+      {
+        "de": "Gaststätte",
+        "es": "restaurante, bar"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing",
@@ -19681,8 +20436,21 @@
     "question_es": "",
     "options": [],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "No se puede determinar la respuesta correcta. La pregunta es de tipo 'matching' y no se proporciona el contexto ni las opciones para emparejar. La respuesta correcta es '?'",
+    "vocabulary": [
+      {
+        "de": "Familienurlaub",
+        "es": "vacaciones familiares"
+      },
+      {
+        "de": "Angebot",
+        "es": "oferta"
+      },
+      {
+        "de": "Kinderprogramm",
+        "es": "programa infantil"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing",
@@ -19706,8 +20474,25 @@
       "C) Sie"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La carta es formal ('Sehr geehrter Herr Schmidt'). La preposición 'bei' siempre rige dativo. 'Ihnen' (con mayúscula) es el pronombre personal formal en dativo.",
+    "vocabulary": [
+      {
+        "de": "Sehr geehrter Herr",
+        "es": "Estimado señor"
+      },
+      {
+        "de": "gebucht",
+        "es": "reservado"
+      },
+      {
+        "de": "bei",
+        "es": "en casa de, con"
+      },
+      {
+        "de": "Ihnen",
+        "es": "a usted (formal, dativo)"
+      }
+    ],
     "flags": [
       "missing_answer_key"
     ]
@@ -19729,8 +20514,25 @@
       "C) zu"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La frase 'dem, der...' se refiere a 'dem Flug' (masculino, dativo). 'der' es el pronombre relativo nominativo que se refiere a 'der Flug' dentro de la oración subordinada ('el vuelo que había sido acordado').",
+    "vocabulary": [
+      {
+        "de": "entsprach nicht",
+        "es": "no correspondía"
+      },
+      {
+        "de": "dem",
+        "es": "a eso (dativo)"
+      },
+      {
+        "de": "ausgemacht",
+        "es": "acordado"
+      },
+      {
+        "de": "der",
+        "es": "que (pronombre relativo)"
+      }
+    ],
     "flags": [
       "missing_answer_key"
     ]
@@ -19752,8 +20554,25 @@
       "C) wie"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "'Wie' introduce una oración subordinada que explica la manera o el hecho. Significa 'como' o 'según'. Aquí, 'como yo había pedido expresamente...'.",
+    "vocabulary": [
+      {
+        "de": "ausdrücklich",
+        "es": "expresamente"
+      },
+      {
+        "de": "bestellt",
+        "es": "pedido"
+      },
+      {
+        "de": "wie",
+        "es": "como, según"
+      },
+      {
+        "de": "Direktflug",
+        "es": "vuelo directo"
+      }
+    ],
     "flags": [
       "missing_answer_key"
     ]
@@ -19775,8 +20594,21 @@
       "C) Sie zu"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "No se puede determinar la respuesta correcta. La frase correcta sería 'einen Flug mit Zwischenstopp' (un vuelo con escala). Ninguna de las opciones ofrecidas encaja gramaticalmente o idiomáticamente de forma completa. La respuesta correcta es '?'",
+    "vocabulary": [
+      {
+        "de": "Zwischenstopp",
+        "es": "escala"
+      },
+      {
+        "de": "Flug",
+        "es": "vuelo"
+      },
+      {
+        "de": "mit",
+        "es": "con"
+      }
+    ],
     "flags": [
       "missing_answer_key"
     ]
@@ -19797,8 +20629,29 @@
       "C) wie"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. No se puede determinar la respuesta correcta porque la Lücke (hueco) 25 no está presente en el fragmento de texto proporcionado. El texto termina en Lücke 24.",
+    "vocabulary": [
+      {
+        "de": "Sehr geehrter Herr Schmidt",
+        "es": "Estimado Sr. Schmidt"
+      },
+      {
+        "de": "gebucht",
+        "es": "reservado"
+      },
+      {
+        "de": "Flug",
+        "es": "vuelo"
+      },
+      {
+        "de": "entsprach",
+        "es": "correspondía"
+      },
+      {
+        "de": "ausgemacht",
+        "es": "acordado"
+      }
+    ],
     "flags": [
       "options_missing",
       "missing_answer_key"
@@ -19820,8 +20673,29 @@
       "B) um seit mir die"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. No se puede determinar la respuesta correcta porque la Lücke (hueco) 26 no está presente en el fragmento de texto proporcionado. El texto termina en Lücke 24.",
+    "vocabulary": [
+      {
+        "de": "ausdrücklich",
+        "es": "expresamente"
+      },
+      {
+        "de": "Direktflug",
+        "es": "vuelo directo"
+      },
+      {
+        "de": "bestellt",
+        "es": "pedido"
+      },
+      {
+        "de": "Zwischenstopp",
+        "es": "escala"
+      },
+      {
+        "de": "Familie",
+        "es": "familia"
+      }
+    ],
     "flags": [
       "options_missing",
       "missing_answer_key"
@@ -19843,8 +20717,29 @@
       "B) deren"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. No se puede determinar la respuesta correcta porque la Lücke (hueco) 27 no está presente en el fragmento de texto proporcionado. El texto termina en Lücke 24.",
+    "vocabulary": [
+      {
+        "de": "Sehr geehrter Herr Schmidt",
+        "es": "Estimado Sr. Schmidt"
+      },
+      {
+        "de": "gebucht",
+        "es": "reservado"
+      },
+      {
+        "de": "Flug",
+        "es": "vuelo"
+      },
+      {
+        "de": "entsprach",
+        "es": "correspondía"
+      },
+      {
+        "de": "ausgemacht",
+        "es": "acordado"
+      }
+    ],
     "flags": [
       "options_missing",
       "missing_answer_key"
@@ -19865,8 +20760,29 @@
       "B) nach"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. No se puede determinar la respuesta correcta porque la Lücke (hueco) 28 no está presente en el fragmento de texto proporcionado. El texto termina en Lücke 24.",
+    "vocabulary": [
+      {
+        "de": "ausdrücklich",
+        "es": "expresamente"
+      },
+      {
+        "de": "Direktflug",
+        "es": "vuelo directo"
+      },
+      {
+        "de": "bestellt",
+        "es": "pedido"
+      },
+      {
+        "de": "Zwischenstopp",
+        "es": "escala"
+      },
+      {
+        "de": "Familie",
+        "es": "familia"
+      }
+    ],
     "flags": [
       "options_missing",
       "missing_answer_key"
@@ -19888,8 +20804,29 @@
       "B) ei vor TAMARA"
     ],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. No se puede determinar la respuesta correcta porque la Lücke (hueco) 29 no está presente en el fragmento de texto proporcionado. El texto termina en Lücke 24.",
+    "vocabulary": [
+      {
+        "de": "Sehr geehrter Herr Schmidt",
+        "es": "Estimado Sr. Schmidt"
+      },
+      {
+        "de": "gebucht",
+        "es": "reservado"
+      },
+      {
+        "de": "Flug",
+        "es": "vuelo"
+      },
+      {
+        "de": "entsprach",
+        "es": "correspondía"
+      },
+      {
+        "de": "ausgemacht",
+        "es": "acordado"
+      }
+    ],
     "flags": [
       "options_missing",
       "missing_answer_key"
@@ -19908,8 +20845,29 @@
     "question_es": "",
     "options": [],
     "correct": "?",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?'. No se puede determinar la respuesta correcta porque la Lücke (hueco) 30 no está presente en el fragmento de texto proporcionado. El texto termina en Lücke 24.",
+    "vocabulary": [
+      {
+        "de": "ausdrücklich",
+        "es": "expresamente"
+      },
+      {
+        "de": "Direktflug",
+        "es": "vuelo directo"
+      },
+      {
+        "de": "bestellt",
+        "es": "pedido"
+      },
+      {
+        "de": "Zwischenstopp",
+        "es": "escala"
+      },
+      {
+        "de": "Familie",
+        "es": "familia"
+      }
+    ],
     "flags": [
       "options_missing",
       "missing_answer_key"
@@ -19942,8 +20900,29 @@
       "O) ZUM"
     ],
     "correct": "H",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'H) SONDERN'. Se usa la construcción 'nicht... sondern...' para contrastar dos ideas. Aquí, las recomendaciones no son 'para algo' (für etwas), sino 'contra algo' (gegen etwas). Las otras opciones no encajan gramaticalmente ni semánticamente en esta estructura de contraste. Es una conjunción adversativa.",
+    "vocabulary": [
+      {
+        "de": "nicht... sondern...",
+        "es": "no... sino..."
+      },
+      {
+        "de": "Empfehlung",
+        "es": "recomendación"
+      },
+      {
+        "de": "gegen",
+        "es": "contra"
+      },
+      {
+        "de": "für",
+        "es": "para"
+      },
+      {
+        "de": "immer wieder",
+        "es": "una y otra vez"
+      }
+    ],
     "flags": []
   },
   {
@@ -19973,8 +20952,29 @@
       "O) ZUM"
     ],
     "correct": "F",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'F) SAGT'. Aunque la frase completa para la Lücke 32 no está en el texto proporcionado, 'sagt' es la tercera persona del singular del verbo 'sagen' (decir). Se usa para indicar lo que alguien o algo 'dice' o 'afirma'. Es un verbo muy común.",
+    "vocabulary": [
+      {
+        "de": "sagen",
+        "es": "decir"
+      },
+      {
+        "de": "Ratschlag",
+        "es": "consejo"
+      },
+      {
+        "de": "sich ernähren",
+        "es": "alimentarse"
+      },
+      {
+        "de": "essen",
+        "es": "comer"
+      },
+      {
+        "de": "was nicht",
+        "es": "lo que no"
+      }
+    ],
     "flags": []
   },
   {
@@ -20004,8 +21004,21 @@
       "O) ZUM"
     ],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'BEIM'. En las opciones proporcionadas, 'BEIM' aparece como 'D', pero el listado de soluciones en el contexto indica que 'B' es la opción correcta y que la palabra es 'BEIM'. 'BEIM' es una contracción de 'bei dem' (en el/al). Se usa para indicar simultaneidad (al hacer algo) o un lugar. La frase completa para esta Lücke no está disponible en el contexto proporcionado, por lo que la explicación se basa en el uso general de la palabra. Sin la frase, es difícil decir por qué fallan otras opciones específicas en contexto. Sin embargo, 'AUF' (sobre), 'VON' (de), 'ZUM' (para el/al) tienen significados diferentes y no encajarían en un uso general de 'BEIM'.",
+    "vocabulary": [
+      {
+        "de": "beim",
+        "es": "al / en el"
+      },
+      {
+        "de": "bei",
+        "es": "en / con"
+      },
+      {
+        "de": "dem",
+        "es": "el / al"
+      }
+    ],
     "flags": []
   },
   {
@@ -20035,8 +21048,21 @@
       "O) ZUM"
     ],
     "correct": "M",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'WELCHEN'. 'WELCHEN' es un pronombre interrogativo o relativo en acusativo masculino singular o dativo plural. Significa 'cuál' o 'a cuál/es'. La frase completa para esta Lücke no está disponible en el contexto proporcionado, por lo que la explicación se basa en el uso general de la palabra. Sin la frase, es difícil dar una razón específica por la que otras opciones fallan. Sin embargo, otras opciones como preposiciones ('AUF', 'VON') o conjunciones ('WEIL') tienen funciones gramaticales distintas y no encajarían como pronombre.",
+    "vocabulary": [
+      {
+        "de": "welchen",
+        "es": "cuál / a cuáles"
+      },
+      {
+        "de": "Pronomen",
+        "es": "pronombre"
+      },
+      {
+        "de": "interrogativ",
+        "es": "interrogativo"
+      }
+    ],
     "flags": []
   },
   {
@@ -20066,8 +21092,21 @@
       "O) ZUM"
     ],
     "correct": "G",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'SOLLTE'. 'SOLLTE' es la forma de Konjunktiv II del verbo 'sollen' (deber). Se usa para dar consejos o expresar una obligación suave o una sugerencia. La frase completa para esta Lücke no está disponible en el contexto proporcionado, por lo que la explicación se basa en el uso general de la palabra. Sin la frase, es difícil dar una razón específica por la que otras opciones fallan. Otras opciones como preposiciones o pronombres no son verbos modales y no encajarían en una estructura de consejo o sugerencia.",
+    "vocabulary": [
+      {
+        "de": "sollte",
+        "es": "debería"
+      },
+      {
+        "de": "sollen",
+        "es": "deber"
+      },
+      {
+        "de": "Konjunktiv II",
+        "es": "subjuntivo II"
+      }
+    ],
     "flags": []
   },
   {
@@ -20097,8 +21136,21 @@
       "O) ZUM"
     ],
     "correct": "K",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'WEGEN'. 'WEGEN' es una preposición que rige genitivo (o dativo en el lenguaje coloquial) y significa 'a causa de' o 'debido a'. Expresa una razón o motivo. La frase completa para esta Lücke no está disponible en el contexto proporcionado, por lo que la explicación se basa en el uso general de la palabra. Sin la frase, es difícil dar una razón específica por la que otras opciones fallan. Otras preposiciones como 'VON' (de) o 'AUF' (sobre) tienen significados diferentes y no expresarían una causa.",
+    "vocabulary": [
+      {
+        "de": "wegen",
+        "es": "a causa de"
+      },
+      {
+        "de": "Präposition",
+        "es": "preposición"
+      },
+      {
+        "de": "Grund",
+        "es": "motivo / razón"
+      }
+    ],
     "flags": []
   },
   {
@@ -20128,8 +21180,21 @@
       "O) ZUM"
     ],
     "correct": "I",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'VON'. 'VON' es una preposición que rige dativo y tiene múltiples usos, como indicar origen ('de'), posesión ('de'), o el agente en voz pasiva ('por'). La frase completa para esta Lücke no está disponible en el contexto proporcionado, por lo que la explicación se basa en el uso general de la palabra. Sin la frase, es difícil dar una razón específica por la que otras opciones fallan. Otras preposiciones como 'WEGEN' (a causa de) o 'AUF' (sobre) tienen significados distintos y no encajarían en los usos típicos de 'VON'.",
+    "vocabulary": [
+      {
+        "de": "von",
+        "es": "de / por"
+      },
+      {
+        "de": "Herkunft",
+        "es": "origen"
+      },
+      {
+        "de": "Passiv",
+        "es": "voz pasiva"
+      }
+    ],
     "flags": []
   },
   {
@@ -20159,8 +21224,21 @@
       "O) ZUM"
     ],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'AUF'. 'AUF' es una preposición de dos casos (Wechselpräposition) que puede regir dativo (posición, 'sobre') o acusativo (dirección, 'a/hacia'). También se usa en expresiones fijas. La frase completa para esta Lücke no está disponible en el contexto proporcionado, por lo que la explicación se basa en el uso general de la palabra. Sin la frase, es difícil dar una razón específica por la que otras opciones fallan. Otras preposiciones como 'VON' (de) o 'BEIM' (al/en el) tienen significados diferentes y no expresarían la misma relación espacial o de dirección.",
+    "vocabulary": [
+      {
+        "de": "auf",
+        "es": "sobre / en"
+      },
+      {
+        "de": "Wechselpräposition",
+        "es": "preposición de dos casos"
+      },
+      {
+        "de": "Ort",
+        "es": "lugar"
+      }
+    ],
     "flags": []
   },
   {
@@ -20190,8 +21268,21 @@
       "O) ZUM"
     ],
     "correct": "N",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'WÜRDE'. 'WÜRDE' es la forma de Konjunktiv II del verbo 'werden' (llegar a ser/volverse). Se usa para formar el condicional ('haría', 'sería') o para expresar deseos o sugerencias de forma cortés. La frase completa para esta Lücke no está disponible en el contexto proporcionado, por lo que la explicación se basa en el uso general de la palabra. Sin la frase, es difícil dar una razón específica por la que otras opciones fallan. Otras opciones como preposiciones o conjunciones no son verbos y no encajarían en una estructura condicional o de cortesía.",
+    "vocabulary": [
+      {
+        "de": "würde",
+        "es": "haría / sería"
+      },
+      {
+        "de": "werden",
+        "es": "llegar a ser"
+      },
+      {
+        "de": "Konditional",
+        "es": "condicional"
+      }
+    ],
     "flags": []
   },
   {
@@ -20221,8 +21312,21 @@
       "O) ZUM"
     ],
     "correct": "L",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es 'WEIL'. 'WEIL' es una conjunción subordinada que introduce una oración causal, significando 'porque'. Envía el verbo conjugado al final de la oración subordinada. La frase completa para esta Lücke no está disponible en el contexto proporcionado, por lo que la explicación se basa en el uso general de la palabra. Sin la frase, es difícil dar una razón específica por la que otras opciones fallan. Otras opciones como preposiciones o verbos modales tienen funciones gramaticales diferentes y no servirían para introducir una causa.",
+    "vocabulary": [
+      {
+        "de": "weil",
+        "es": "porque"
+      },
+      {
+        "de": "Konjunktion",
+        "es": "conjunción"
+      },
+      {
+        "de": "Ursache",
+        "es": "causa"
+      }
+    ],
     "flags": []
   },
   {
@@ -20249,8 +21353,29 @@
       "J) Tipps: Wo auch Kinder ihren Spaß haben"
     ],
     "correct": "H",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta 'H' (\"Söhne schenken mehr als Töchter\") indica que los hijos *dan* más regalos que las hijas. Sin embargo, el texto afirma lo contrario: \"Jungs bevorzugt – sie bekommen mehr geschenkt als Mädchen\" (los chicos son preferidos – *reciben* más regalos que las chicas). Por lo tanto, hay una contradicción directa entre la opción H y el contenido del texto. Si H es la respuesta correcta, podría ser un error en la pregunta o en la opción, o una interpretación muy libre. Las otras opciones no tienen relación con el tema de los regalos y los géneros.",
+    "vocabulary": [
+      {
+        "de": "bevorzugen",
+        "es": "preferir"
+      },
+      {
+        "de": "geschenkt bekommen",
+        "es": "recibir como regalo"
+      },
+      {
+        "de": "Untersuchung",
+        "es": "investigación"
+      },
+      {
+        "de": "Sohn",
+        "es": "hijo"
+      },
+      {
+        "de": "Tochter",
+        "es": "hija"
+      }
+    ],
     "flags": []
   },
   {
@@ -20277,8 +21402,29 @@
       "J) Tipps: Wo auch Kinder ihren Spaß haben"
     ],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El texto describe la \"ICYN-Karte\" y enumera muchos beneficios: reservar alojamientos, navegar por internet, llamar gratis, comprar billetes de tren/avión y entradas de conciertos. Esto coincide directamente con la opción A. Las otras opciones no tienen relación con una tarjeta y sus ventajas.",
+    "vocabulary": [
+      {
+        "de": "Karte",
+        "es": "tarjeta"
+      },
+      {
+        "de": "Vorteil",
+        "es": "ventaja"
+      },
+      {
+        "de": "Jahresgebühr",
+        "es": "cuota anual"
+      },
+      {
+        "de": "reservieren",
+        "es": "reservar"
+      },
+      {
+        "de": "weltweit",
+        "es": "mundial"
+      }
+    ],
     "flags": []
   },
   {
@@ -20305,8 +21451,29 @@
       "J) Tipps: Wo auch Kinder ihren Spaß haben"
     ],
     "correct": "J",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El texto se centra en planificar \"Ferien mit Kindern\" (vacaciones con niños) y menciona \"Tipps\" (consejos) sobre lugares donde los niños pueden divertirse y los padres también disfrutan. Esto se alinea perfectamente con la opción J. Las otras opciones no son relevantes para el contenido del texto.",
+    "vocabulary": [
+      {
+        "de": "Ferien",
+        "es": "vacaciones"
+      },
+      {
+        "de": "Kinder",
+        "es": "niños"
+      },
+      {
+        "de": "Tipps",
+        "es": "consejos"
+      },
+      {
+        "de": "Spaß haben",
+        "es": "divertirse"
+      },
+      {
+        "de": "planen",
+        "es": "planificar"
+      }
+    ],
     "flags": []
   },
   {
@@ -20333,8 +21500,29 @@
       "J) Tipps: Wo auch Kinder ihren Spaß haben"
     ],
     "correct": "D",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El texto habla explícitamente del \"Sehnsucht nach dem Meer\" (anhelo por el mar) en Suiza y la disposición a cambiar \"Berge\" (montañas) por una \"Meeresküste\" (costa). La opción D refleja directamente este contraste y deseo. Las otras opciones no son relevantes.",
+    "vocabulary": [
+      {
+        "de": "Meer",
+        "es": "mar"
+      },
+      {
+        "de": "Berge",
+        "es": "montañas"
+      },
+      {
+        "de": "Sehnsucht",
+        "es": "anhelo"
+      },
+      {
+        "de": "tauschen",
+        "es": "intercambiar"
+      },
+      {
+        "de": "Umfrage",
+        "es": "encuesta"
+      }
+    ],
     "flags": []
   },
   {
@@ -20361,8 +21549,29 @@
       "J) Tipps: Wo auch Kinder ihren Spaß haben"
     ],
     "correct": "C",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El texto menciona que un \"Verein für Familienherbergen\" (asociación de albergues familiares) ofrece \"preisgünstige Ferien\" (vacaciones económicas) específicamente a sus \"Mitgliedern\" (miembros). La opción C resume directamente esta información. Las otras opciones no son relevantes.",
+    "vocabulary": [
+      {
+        "de": "Verein",
+        "es": "asociación"
+      },
+      {
+        "de": "Mitglieder",
+        "es": "miembros"
+      },
+      {
+        "de": "preisgünstig",
+        "es": "económico"
+      },
+      {
+        "de": "Ferien",
+        "es": "vacaciones"
+      },
+      {
+        "de": "Urlaub",
+        "es": "vacaciones"
+      }
+    ],
     "flags": []
   },
   {
@@ -20381,8 +21590,29 @@
       "C) weil so mehr Leute den Verkaufskatalog lesen."
     ],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El texto afirma explícitamente: \"Die Firma Ikea benutzt heute das Du, weil das ein Zeichen für eine familiäre Atmosphäre ist.\" Esto coincide directamente con la opción A. Las opciones B y C no se mencionan como razones para usar el \"Du\" en Ikea.",
+    "vocabulary": [
+      {
+        "de": "Firma",
+        "es": "empresa"
+      },
+      {
+        "de": "benutzen",
+        "es": "usar"
+      },
+      {
+        "de": "Zeichen",
+        "es": "señal"
+      },
+      {
+        "de": "familiär",
+        "es": "familiar"
+      },
+      {
+        "de": "Atmosphäre",
+        "es": "ambiente"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -20403,8 +21633,29 @@
       "C) wird man bestraft, wenn man zu Beamten Du sagt."
     ],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El contexto proporcionado para esta pregunta es incompleto. Sin embargo, basándose en el texto completo del que se extrajo esta pregunta, se menciona que \"Polizisten werden nur selten mit Du angesprochen\" en Suiza. Por lo tanto, la opción B es correcta. La opción A también es correcta según el texto completo (\"In der Schweiz ist das Du in Gewerkschaften eine Beleidigung\"), lo que sugiere que podría haber más de una respuesta verdadera o que la pregunta original tenía un enfoque específico. La opción C no se menciona.",
+    "vocabulary": [
+      {
+        "de": "Schweiz",
+        "es": "Suiza"
+      },
+      {
+        "de": "Polizist",
+        "es": "policía"
+      },
+      {
+        "de": "ansprechen",
+        "es": "dirigirse a"
+      },
+      {
+        "de": "selten",
+        "es": "raramente"
+      },
+      {
+        "de": "Gewerkschaft",
+        "es": "sindicato"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -20425,8 +21676,29 @@
       "C) dass sich alle Arbeitskollegen gern mit Du anderen würden."
     ],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El contexto proporcionado para esta pregunta es incompleto. Sin embargo, basándose en el texto completo del que se extrajo esta pregunta, una investigación mostró que \"besonders jüngere Arbeitskollegen schneller das Du wählen\". Esto coincide con la opción B. La opción A (\"dass 14 Prozent der jüngeren Mitarbeiter das Sie vorziehen\") también se menciona en el texto completo, lo que indica que podría haber más de una respuesta verdadera. La opción C no está respaldada por el texto.",
+    "vocabulary": [
+      {
+        "de": "Untersuchung",
+        "es": "investigación"
+      },
+      {
+        "de": "zeigen",
+        "es": "mostrar"
+      },
+      {
+        "de": "jünger",
+        "es": "más joven"
+      },
+      {
+        "de": "Arbeitskollege",
+        "es": "compañero de trabajo"
+      },
+      {
+        "de": "wählen",
+        "es": "elegir"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -20447,8 +21719,29 @@
       "C) neue Trends beim Einrichten des Arbeitsplatzes kennen lernen."
     ],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción A es correcta porque los cursos en el ámbito laboral suelen enfocarse en mejorar las habilidades de comunicación y el comportamiento profesional, como la cortesía ('höfliches Verhalten'). Esto es relevante para las 'reglas lingüísticas en el trabajo' mencionadas en el texto. Mejorar la posición laboral es un beneficio común de la formación. La opción C ('nuevas tendencias al amueblar el lugar de trabajo') no se relaciona con el desarrollo de habilidades personales o de comunicación que se suelen enseñar en cursos para empleados.",
+    "vocabulary": [
+      {
+        "de": "Kurse",
+        "es": "cursos"
+      },
+      {
+        "de": "Angestellte",
+        "es": "empleados"
+      },
+      {
+        "de": "höfliches Verhalten",
+        "es": "comportamiento cortés"
+      },
+      {
+        "de": "Arbeitsplatz",
+        "es": "lugar de trabajo"
+      },
+      {
+        "de": "verbessern",
+        "es": "mejorar"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -20470,8 +21763,29 @@
       "C) wenn man zu den Mitarbeitern Sie sagen will. THOMAS DB"
     ],
     "correct": "C",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción C es correcta. La pregunta implícita es 'Probleme am Arbeitsplatz kann es geben, wenn...' (Puede haber problemas en el trabajo, si...). El texto habla de la 'Du-Kultur' en el trabajo (como en IKEA), donde todos se tutean ('Du'). Si alguien insiste en usar el 'Sie' con los compañeros en un entorno de 'Du-Kultur', esto puede generar problemas o malentendidos, ya que va en contra de la norma establecida. La opción A menciona rechazar el 'Sie' o ir a juicio por un error. Rechazar el 'Sie' no es el problema en una 'Du-Kultur'; el problema es usarlo cuando no se espera. Ir a juicio es una consecuencia extrema y no directamente relacionada con las reglas de 'Du/Sie'.",
+    "vocabulary": [
+      {
+        "de": "Probleme",
+        "es": "problemas"
+      },
+      {
+        "de": "Arbeitsplatz",
+        "es": "lugar de trabajo"
+      },
+      {
+        "de": "Mitarbeitern",
+        "es": "compañeros/empleados"
+      },
+      {
+        "de": "Du-Kultur",
+        "es": "cultura del tuteo"
+      },
+      {
+        "de": "Sie sagen",
+        "es": "decir 'usted'"
+      }
+    ],
     "flags": [
       "question_text_missing"
     ]
@@ -20489,8 +21803,25 @@
     "question_es": "",
     "options": [],
     "correct": "D",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción D sería correcta si se trata de un anuncio o programa que presenta una película con una actriz suiza, ya que el escenario busca específicamente un film con una actriz de Suiza. Sin las opciones de texto completas, no puedo explicar por qué otras fallan, pero lo harían si no mencionan una película o una actriz suiza.",
+    "vocabulary": [
+      {
+        "de": "Schweizer Schauspielerin",
+        "es": "actriz suiza"
+      },
+      {
+        "de": "Film",
+        "es": "película"
+      },
+      {
+        "de": "sehen",
+        "es": "ver"
+      },
+      {
+        "de": "möchten",
+        "es": "querer"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -20509,8 +21840,25 @@
     "question_es": "",
     "options": [],
     "correct": "G",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción G sería correcta si describe una oferta de empleo para un puesto de recepcionista, idealmente para alguien recién graduado o con poca experiencia. Sin las opciones de texto completas, no puedo explicar por qué otras fallan, pero lo harían si no son ofertas de empleo para recepcionistas o si requieren mucha experiencia.",
+    "vocabulary": [
+      {
+        "de": "Ausbildung beendet",
+        "es": "formación terminada"
+      },
+      {
+        "de": "Stelle",
+        "es": "puesto de trabajo"
+      },
+      {
+        "de": "Rezeption",
+        "es": "recepción"
+      },
+      {
+        "de": "suchen",
+        "es": "buscar"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -20529,8 +21877,25 @@
     "question_es": "",
     "options": [],
     "correct": "F",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción F sería correcta si se trata de la descripción de un programa (de radio o televisión) cuyo tema principal es la protección del medio ambiente. Sin las opciones de texto completas, no puedo explicar por qué otras fallan, pero lo harían si los programas no tratan sobre el medio ambiente.",
+    "vocabulary": [
+      {
+        "de": "Umweltschutz",
+        "es": "protección del medio ambiente"
+      },
+      {
+        "de": "interessieren",
+        "es": "interesar"
+      },
+      {
+        "de": "passende Sendung",
+        "es": "programa adecuado"
+      },
+      {
+        "de": "suchen",
+        "es": "buscar"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -20549,8 +21914,29 @@
     "question_es": "",
     "options": [],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción A sería correcta si describe una oferta de prácticas ('Praktikumsplatz') en el ámbito del cine, la imagen o medios audiovisuales, adecuada para un estudiante de esa área. Sin las opciones de texto completas, no puedo explicar por qué otras fallan, pero lo harían si no son ofertas de prácticas o si no están relacionadas con el cine/imagen.",
+    "vocabulary": [
+      {
+        "de": "Freund",
+        "es": "amigo"
+      },
+      {
+        "de": "studiert",
+        "es": "estudia"
+      },
+      {
+        "de": "Film und Bild",
+        "es": "cine e imagen"
+      },
+      {
+        "de": "Praktikumsplatz",
+        "es": "plaza de prácticas"
+      },
+      {
+        "de": "suchen",
+        "es": "buscar"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -20569,8 +21955,29 @@
     "question_es": "",
     "options": [],
     "correct": "I",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción I sería correcta si se trata de la descripción de una serie de televisión o un programa informativo que aborda los desarrollos políticos actuales en Alemania. Sin las opciones de texto completas, no puedo explicar por qué otras fallan, pero lo harían si no son programas de televisión sobre política alemana.",
+    "vocabulary": [
+      {
+        "de": "Sendereihe",
+        "es": "serie de programas"
+      },
+      {
+        "de": "Fernsehen",
+        "es": "televisión"
+      },
+      {
+        "de": "politische Entwicklung",
+        "es": "desarrollo político"
+      },
+      {
+        "de": "Deutschland",
+        "es": "Alemania"
+      },
+      {
+        "de": "informieren",
+        "es": "informarse"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -20589,8 +21996,29 @@
     "question_es": "",
     "options": [],
     "correct": "K",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción K sería correcta si describe un programa de radio ('Rundfunk') que trate sobre el desarrollo y las características de las grandes ciudades. Sin las opciones de texto completas, no puedo explicar por qué otras fallan, pero lo harían si no son programas de radio o si no tratan sobre grandes ciudades.",
+    "vocabulary": [
+      {
+        "de": "Großstädte",
+        "es": "grandes ciudades"
+      },
+      {
+        "de": "Entwicklung",
+        "es": "desarrollo"
+      },
+      {
+        "de": "interessieren",
+        "es": "interesar"
+      },
+      {
+        "de": "Sendung",
+        "es": "programa"
+      },
+      {
+        "de": "Rundfunk",
+        "es": "radio"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -20609,8 +22037,25 @@
     "question_es": "",
     "options": [],
     "correct": "X",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La pregunta busca una formación (Ausbildung) en la empresa Deutsche Bahn después de terminar la escuela. La respuesta 'X' sería el texto que describe una oferta de formación en Deutsche Bahn.",
+    "vocabulary": [
+      {
+        "de": "Ausbildung",
+        "es": "formación profesional"
+      },
+      {
+        "de": "Deutsche Bahn",
+        "es": "ferrocarriles alemanes"
+      },
+      {
+        "de": "Schule fertig",
+        "es": "terminar la escuela"
+      },
+      {
+        "de": "Job",
+        "es": "empleo"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -20629,8 +22074,29 @@
     "question_es": "",
     "options": [],
     "correct": "J",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El usuario se interesa por el teatro político y quiere ver o escuchar algo el fin de semana. La respuesta 'J' sería un evento (obra, debate) sobre teatro político que ocurre en fin de semana.",
+    "vocabulary": [
+      {
+        "de": "politisches Theater",
+        "es": "teatro político"
+      },
+      {
+        "de": "Wochenende",
+        "es": "fin de semana"
+      },
+      {
+        "de": "hören",
+        "es": "escuchar"
+      },
+      {
+        "de": "sehen",
+        "es": "ver"
+      },
+      {
+        "de": "Event",
+        "es": "evento"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -20649,8 +22115,25 @@
     "question_es": "",
     "options": [],
     "correct": "L",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La persona disfruta trabajar en equipo (mit anderen zusammenarbeiten) y busca un puesto en una agencia de publicidad (Werbefirma). La respuesta 'L' sería una oferta de trabajo en una Werbefirma que valore el trabajo en equipo.",
+    "vocabulary": [
+      {
+        "de": "Werbefirma",
+        "es": "agencia de publicidad"
+      },
+      {
+        "de": "zusammenarbeiten",
+        "es": "trabajar juntos"
+      },
+      {
+        "de": "Tätigkeit",
+        "es": "actividad, puesto"
+      },
+      {
+        "de": "Team",
+        "es": "equipo"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -20669,8 +22152,25 @@
     "question_es": "",
     "options": [],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El usuario quiere información sobre 'trabajar en Europa' (Arbeiten in Europa). La respuesta 'B' sería un texto o sección informativa sobre este tema específico.",
+    "vocabulary": [
+      {
+        "de": "Arbeiten",
+        "es": "trabajar"
+      },
+      {
+        "de": "Europa",
+        "es": "Europa"
+      },
+      {
+        "de": "erfahren",
+        "es": "informarse, aprender"
+      },
+      {
+        "de": "Thema",
+        "es": "tema"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -20693,8 +22193,29 @@
       "C) Sie"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La frase 'Sehr geehrter Herr Samir...' indica un trato formal. La preposición 'bei' rige dativo. Por lo tanto, se necesita el pronombre formal en dativo, que es 'Ihnen'. Las otras opciones son informales ('ihnen') o no están en dativo ('Sie').",
+    "vocabulary": [
+      {
+        "de": "Ihnen",
+        "es": "a usted (formal, dativo)"
+      },
+      {
+        "de": "formell",
+        "es": "formal"
+      },
+      {
+        "de": "Anrede",
+        "es": "saludo, tratamiento"
+      },
+      {
+        "de": "Dativ",
+        "es": "dativo"
+      },
+      {
+        "de": "bei",
+        "es": "en casa de, con"
+      }
+    ],
     "flags": []
   },
   {
@@ -20714,8 +22235,29 @@
       "C) zu"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La frase 'Leider entsprachen die Tickets überhaupt nicht dem, was zuvor bei der Buchung besprochen...' requiere un verbo en pasado para completar la cláusula pasiva 'was besprochen...'. 'War' (era/fue) es la forma correcta para esta construcción pasiva en pasado. 'Hat' se usaría para el pretérito perfecto activo, y 'zu' no es un verbo principal aquí.",
+    "vocabulary": [
+      {
+        "de": "war",
+        "es": "era, fue (pasado de 'sein')"
+      },
+      {
+        "de": "Vergangenheit",
+        "es": "pasado"
+      },
+      {
+        "de": "Passiv",
+        "es": "voz pasiva"
+      },
+      {
+        "de": "besprochen",
+        "es": "discutido, hablado"
+      },
+      {
+        "de": "entsprechen",
+        "es": "corresponder"
+      }
+    ],
     "flags": []
   },
   {
@@ -20735,8 +22277,29 @@
       "C) wäre"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "Según el contexto proporcionado (`23 b obwohl`), la palabra correcta para la Lücke 23 es \"obwohl\". \"Obwohl\" (aunque) es una conjunción subordinada que introduce una cláusula de concesión, mostrando un contraste. La opción 'b' en la lista de opciones es \"jetzt\", lo cual no coincide con la respuesta indicada en el contexto.",
+    "vocabulary": [
+      {
+        "de": "obwohl",
+        "es": "aunque"
+      },
+      {
+        "de": "Konjunktion",
+        "es": "conjunción"
+      },
+      {
+        "de": "Gegensatz",
+        "es": "contraste"
+      },
+      {
+        "de": "Nebensatz",
+        "es": "oración subordinada"
+      },
+      {
+        "de": "Konzessivsatz",
+        "es": "oración concesiva"
+      }
+    ],
     "flags": []
   },
   {
@@ -20756,8 +22319,29 @@
       "C) Nämlich"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "Según el contexto proporcionado (`24 b mit`), la palabra correcta para la Lücke 24 es \"mit\". \"Mit\" (con) es una preposición que rige dativo y se usa para indicar compañía, instrumento o modo. La opción 'b' en la lista de opciones es \"Obwohl\", lo cual no coincide con la respuesta indicada en el contexto.",
+    "vocabulary": [
+      {
+        "de": "mit",
+        "es": "con"
+      },
+      {
+        "de": "Preposition",
+        "es": "preposición"
+      },
+      {
+        "de": "Dativ",
+        "es": "dativo"
+      },
+      {
+        "de": "Begleitung",
+        "es": "compañía"
+      },
+      {
+        "de": "Instrument",
+        "es": "instrumento"
+      }
+    ],
     "flags": []
   },
   {
@@ -20777,8 +22361,25 @@
       "C) wäre schon"
     ],
     "correct": "a",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"erst Danach\". Esta expresión temporal indica una secuencia: algo ocurre primero y \"solo después\" sucede lo siguiente. Es una forma de organizar eventos en el tiempo. Las otras opciones no encajan gramaticalmente o semánticamente para indicar una secuencia clara.",
+    "vocabulary": [
+      {
+        "de": "erst",
+        "es": "solo/primero"
+      },
+      {
+        "de": "danach",
+        "es": "después"
+      },
+      {
+        "de": "Sequenz",
+        "es": "secuencia"
+      },
+      {
+        "de": "temporal",
+        "es": "temporal"
+      }
+    ],
     "flags": []
   },
   {
@@ -20798,8 +22399,25 @@
       "C) sonst"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"mir\". \"Mir\" es el pronombre personal en dativo (a mí/para mí). Se usa con verbos o preposiciones que requieren el caso dativo. \"Mich\" es el pronombre en acusativo (a mí/me), y \"sonst\" es un adverbio que significa \"de lo contrario\".",
+    "vocabulary": [
+      {
+        "de": "mir",
+        "es": "a mí/para mí (dativo)"
+      },
+      {
+        "de": "mich",
+        "es": "a mí/me (acusativo)"
+      },
+      {
+        "de": "Dativo",
+        "es": "dativo"
+      },
+      {
+        "de": "Pronomen",
+        "es": "pronombre"
+      }
+    ],
     "flags": []
   },
   {
@@ -20819,8 +22437,25 @@
       "C) Sie zu"
     ],
     "correct": "c",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"Sie zu\". Esta combinación se usa a menudo en construcciones con infinitivo para expresar una petición o invitación formal, como en \"Ich bitte Sie, zu kommen\" (Le pido que venga). \"Sie\" es el pronombre formal de usted/ustedes, y \"zu\" introduce la acción infinitiva.",
+    "vocabulary": [
+      {
+        "de": "Sie",
+        "es": "usted/ustedes (formal)"
+      },
+      {
+        "de": "zu",
+        "es": "a/para (con infinitivo)"
+      },
+      {
+        "de": "Infinitiv",
+        "es": "infinitivo"
+      },
+      {
+        "de": "Bitte",
+        "es": "petición"
+      }
+    ],
     "flags": []
   },
   {
@@ -20840,8 +22475,25 @@
       "C) Nämlich sonst die"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"Obwohl sondern\". \"Obwohl\" (aunque) introduce una oración subordinada de concesión. \"Sondern\" (sino que) se usa para corregir una negación. La combinación directa \"Obwohl sondern\" es muy inusual y no es una construcción gramatical estándar en alemán. Podría ser un error en la pregunta o una estructura muy específica que requiere más contexto.",
+    "vocabulary": [
+      {
+        "de": "obwohl",
+        "es": "aunque"
+      },
+      {
+        "de": "sondern",
+        "es": "sino que"
+      },
+      {
+        "de": "Konjunktion",
+        "es": "conjunción"
+      },
+      {
+        "de": "ungewöhnlich",
+        "es": "inusual"
+      }
+    ],
     "flags": []
   },
   {
@@ -20857,8 +22509,25 @@
     "question_es": "",
     "options": [],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "Las opciones para esta pregunta no están disponibles. Si la respuesta correcta es \"bei\" (como sugiere el contexto `29 b bei`), esta preposición significa \"en casa de\", \"cerca de\", o \"durante\". Siempre rige el caso dativo.",
+    "vocabulary": [
+      {
+        "de": "bei",
+        "es": "en/cerca de/con"
+      },
+      {
+        "de": "Präposition",
+        "es": "preposición"
+      },
+      {
+        "de": "Dativo",
+        "es": "dativo"
+      },
+      {
+        "de": "Ort",
+        "es": "lugar"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -20880,8 +22549,25 @@
       "C) sich um zu THOMAS"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"mir ei vor\". Esta opción es gramaticalmente inusual debido a la inclusión de \"ei\". Si la parte relevante es \"mir\" (pronombre en dativo) y \"vor\" (preposición), podría ser parte de una construcción verbal o preposicional que requiere dativo. Sin el contexto completo de la frase, es difícil ser preciso. Las otras opciones no forman una estructura coherente.",
+    "vocabulary": [
+      {
+        "de": "mir",
+        "es": "a mí/para mí (dativo)"
+      },
+      {
+        "de": "vor",
+        "es": "delante de/antes"
+      },
+      {
+        "de": "Präposition",
+        "es": "preposición"
+      },
+      {
+        "de": "ungewöhnlich",
+        "es": "inusual"
+      }
+    ],
     "flags": []
   },
   {
@@ -20905,8 +22591,25 @@
       "O) WEIL"
     ],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es \"AUFTRAG\". \"Auftrag\" (el encargo/la tarea) es un sustantivo masculino. La expresión \"den Auftrag haben\" (tener el encargo) es común y encaja perfectamente con \"Unsere Organisation hat den (31)... vorzubereiten\". \"Den\" es el artículo acusativo masculino que precede al sustantivo.",
+    "vocabulary": [
+      {
+        "de": "Auftrag",
+        "es": "encargo/tarea"
+      },
+      {
+        "de": "haben",
+        "es": "tener"
+      },
+      {
+        "de": "Substantiv",
+        "es": "sustantivo"
+      },
+      {
+        "de": "Akkusativ",
+        "es": "acusativo"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -20932,8 +22635,25 @@
       "O) WEIL"
     ],
     "correct": "I",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción \"I\" no está claramente listada como una palabra individual en las opciones proporcionadas. Sin embargo, el contexto `32 I STATTFINDEN` indica que \"stattfinden\" es la respuesta correcta. \"Stattfinden\" (tener lugar/celebrarse) es el verbo que completa la frase \"Diese Veranstaltung könnte in Breisach (32)\". \"Könnte...stattfinden\" es una construcción con verbo modal que expresa posibilidad. Las otras opciones no encajan gramaticalmente.",
+    "vocabulary": [
+      {
+        "de": "stattfinden",
+        "es": "tener lugar/celebrarse"
+      },
+      {
+        "de": "Veranstaltung",
+        "es": "evento"
+      },
+      {
+        "de": "könnte",
+        "es": "podría"
+      },
+      {
+        "de": "Modalverb",
+        "es": "verbo modal"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -20959,8 +22679,21 @@
       "O) WEIL"
     ],
     "correct": "G",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La palabra correcta es \"Informationen\". Después de \"nähere\" (más detallada), necesitamos un sustantivo plural. \"Informationen\" (información) encaja perfectamente para pedir más detalles. Otras opciones son verbos, preposiciones o conjunciones que no son sustantivos.",
+    "vocabulary": [
+      {
+        "de": "Informationen",
+        "es": "información"
+      },
+      {
+        "de": "nähere",
+        "es": "más detallada"
+      },
+      {
+        "de": "brauchen",
+        "es": "necesitar"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -20986,8 +22719,25 @@
       "O) WEIL"
     ],
     "correct": "C",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La palabra correcta es \"beschreiben\". La frase \"möchten wir Sie bitten, uns die Räumlichkeiten... genauer zu (34)\" requiere un infinitivo con \"zu\". \"Beschreiben\" (describir) es el verbo adecuado para pedir una descripción detallada de las instalaciones. Otras opciones son sustantivos, adverbios o conjunciones que no son verbos en infinitivo.",
+    "vocabulary": [
+      {
+        "de": "beschreiben",
+        "es": "describir"
+      },
+      {
+        "de": "Räumlichkeiten",
+        "es": "instalaciones"
+      },
+      {
+        "de": "genauer",
+        "es": "más detallado"
+      },
+      {
+        "de": "bitten",
+        "es": "pedir"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21013,8 +22763,21 @@
       "O) WEIL"
     ],
     "correct": "E",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La palabra correcta es \"geeignet\". La frase \"ob diese für eine internationale Konferenz (35) sind\" necesita un adjetivo que describa si las instalaciones son apropiadas. \"Geeignet\" (adecuado) es la palabra correcta. Otras opciones son sustantivos, adverbios o conjunciones que no son adjetivos.",
+    "vocabulary": [
+      {
+        "de": "geeignet",
+        "es": "adecuado"
+      },
+      {
+        "de": "Konferenz",
+        "es": "conferencia"
+      },
+      {
+        "de": "sind",
+        "es": "son"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21040,8 +22803,21 @@
       "O) WEIL"
     ],
     "correct": "O",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La palabra correcta es \"weil\". La oración introduce una razón (\"wir gehört haben...\"). \"Weil\" (porque) es la conjunción subordinada que introduce una causa. Otras opciones son adverbios, sustantivos o verbos que no cumplen la función de conjunción causal.",
+    "vocabulary": [
+      {
+        "de": "weil",
+        "es": "porque"
+      },
+      {
+        "de": "Erfahrung",
+        "es": "experiencia"
+      },
+      {
+        "de": "Organisation",
+        "es": "organización"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21067,8 +22843,25 @@
       "O) WEIL"
     ],
     "correct": "J",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La palabra correcta es \"suchen\". La frase \"Wir (37) noch einen geeigneten Termin\" necesita un verbo que indique la acción de encontrar una fecha. \"Suchen\" (buscar) es el verbo apropiado. Otras opciones son adverbios, sustantivos o conjunciones que no son verbos.",
+    "vocabulary": [
+      {
+        "de": "suchen",
+        "es": "buscar"
+      },
+      {
+        "de": "Termin",
+        "es": "fecha/cita"
+      },
+      {
+        "de": "geeignet",
+        "es": "adecuado"
+      },
+      {
+        "de": "noch",
+        "es": "todavía"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21094,8 +22887,21 @@
       "O) WEIL"
     ],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La palabra correcta es \"auch\". La frase \"wenn Sie uns (38) bei der Suche nach einem Termin helfen könnten\" necesita un adverbio que indique adición. \"Auch\" (también) es la palabra correcta, implicando que además de lo anterior, se pide ayuda con la fecha. Otras opciones son sustantivos, conjunciones o verbos que no encajan gramaticalmente.",
+    "vocabulary": [
+      {
+        "de": "auch",
+        "es": "también"
+      },
+      {
+        "de": "helfen",
+        "es": "ayudar"
+      },
+      {
+        "de": "Suche",
+        "es": "búsqueda"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21121,8 +22927,21 @@
       "O) WEIL"
     ],
     "correct": "K",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La palabra correcta es \"Termin\". La frase \"wann ein (39) für Sie günstig wäre\" necesita un sustantivo singular masculino que pueda ser \"günstig\" (favorable). \"Termin\" (fecha/cita) es la palabra adecuada. Otras opciones son adverbios, verbos o conjunciones que no son sustantivos.",
+    "vocabulary": [
+      {
+        "de": "Termin",
+        "es": "fecha/cita"
+      },
+      {
+        "de": "günstig",
+        "es": "favorable"
+      },
+      {
+        "de": "teilen Sie uns mit",
+        "es": "infórmenos"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21148,8 +22967,25 @@
       "O) WEIL"
     ],
     "correct": "N",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La palabra correcta es \"wären\". La frase \"Wir (40) Ihnen sehr dankbar\" expresa gratitud en un contexto condicional o hipotético (Konjunktiv II). \"Wären\" (seríamos) es la forma correcta del verbo \"sein\" en Konjunktiv II para \"wir\". Otras opciones son adverbios, sustantivos o verbos en otras formas que no encajan en este contexto.",
+    "vocabulary": [
+      {
+        "de": "wären",
+        "es": "seríamos"
+      },
+      {
+        "de": "dankbar",
+        "es": "agradecido"
+      },
+      {
+        "de": "Unterstützung",
+        "es": "apoyo"
+      },
+      {
+        "de": "sehr",
+        "es": "muy"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21178,8 +23014,29 @@
       "J) Wandern ohne Gepäck"
     ],
     "correct": "D",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El texto habla de enviar tu periódico ('Zeitung') a tu lugar de vacaciones ('Urlaubsort'). Menciona 'Neuigkeiten von zu Hause' (noticias de casa). La opción D encaja perfectamente con esto.",
+    "vocabulary": [
+      {
+        "de": "Zeitung",
+        "es": "periódico"
+      },
+      {
+        "de": "Urlaub",
+        "es": "vacaciones"
+      },
+      {
+        "de": "nachsenden",
+        "es": "reenviar"
+      },
+      {
+        "de": "Neuigkeiten",
+        "es": "noticias"
+      },
+      {
+        "de": "verreisen",
+        "es": "viajar"
+      }
+    ],
     "flags": []
   },
   {
@@ -21206,8 +23063,29 @@
       "J) Wandern ohne Gepäck"
     ],
     "correct": "J",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El texto menciona claramente 'Wanderungen ohne Gepäck' (caminatas sin equipaje) y 'Gepäcktransport' (transporte de equipaje). La opción J es la más directa y correcta.",
+    "vocabulary": [
+      {
+        "de": "Wandern",
+        "es": "caminar/senderismo"
+      },
+      {
+        "de": "Gepäck",
+        "es": "equipaje"
+      },
+      {
+        "de": "ohne",
+        "es": "sin"
+      },
+      {
+        "de": "Transport",
+        "es": "transporte"
+      },
+      {
+        "de": "Übernachtung",
+        "es": "pernoctación"
+      }
+    ],
     "flags": []
   },
   {
@@ -21234,8 +23112,29 @@
       "J) Wandern ohne Gepäck"
     ],
     "correct": "E",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El texto describe la música como 'Lärm' (ruido) para algunos y habla de 'musikalische Ruhestörung' (molestia musical). También menciona horarios de 'Mittagsruhe' (silencio al mediodía) y 'nachts' (por la noche). Esto se refiere a molestar a los vecinos con ruido.",
+    "vocabulary": [
+      {
+        "de": "Musik",
+        "es": "música"
+      },
+      {
+        "de": "Lärm",
+        "es": "ruido"
+      },
+      {
+        "de": "Ruhestörung",
+        "es": "molestia/alteración de la paz"
+      },
+      {
+        "de": "Nachbar",
+        "es": "vecino"
+      },
+      {
+        "de": "Ruhezeiten",
+        "es": "horas de silencio"
+      }
+    ],
     "flags": []
   },
   {
@@ -21262,8 +23161,29 @@
       "J) Wandern ohne Gepäck"
     ],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El texto habla de un 'Bücherdorf' (pueblo de libros) con 'Antiquariate' (librerías de segunda mano) y 'Bücher aus allen Bereichen der Literatur' (libros de todas las áreas de la literatura). Es un destino para personas interesadas en la literatura.",
+    "vocabulary": [
+      {
+        "de": "Bücherdorf",
+        "es": "pueblo de libros"
+      },
+      {
+        "de": "Literatur",
+        "es": "literatura"
+      },
+      {
+        "de": "Antiquariat",
+        "es": "librería de segunda mano"
+      },
+      {
+        "de": "Bücher",
+        "es": "libros"
+      },
+      {
+        "de": "Interessierte",
+        "es": "interesados"
+      }
+    ],
     "flags": []
   },
   {
@@ -21290,8 +23210,29 @@
       "J) Wandern ohne Gepäck"
     ],
     "correct": "C",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El texto se centra en los 'Bregenzer Festspiele' y da 'Hinweise' (información/consejos) a los 'Gästen' (invitados/visitantes) sobre el tiempo, posibles retrasos y ropa adecuada. La opción C es la más precisa.",
+    "vocabulary": [
+      {
+        "de": "Festspiele",
+        "es": "festival"
+      },
+      {
+        "de": "Hinweis",
+        "es": "indicación/aviso"
+      },
+      {
+        "de": "Besucher",
+        "es": "visitantes"
+      },
+      {
+        "de": "Wetter",
+        "es": "tiempo (meteorológico)"
+      },
+      {
+        "de": "Seebühne",
+        "es": "escenario flotante"
+      }
+    ],
     "flags": []
   },
   {
@@ -21310,8 +23251,29 @@
       "C) omputerspiele für Vierjährige entwickelt werden sollen. Kinder neue Farbdrucker ausprobieren sollen."
     ],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El título 'Computerprobleme – ein Kinderspiel' y la mención de 'Kindergarten' sugieren que hay computadoras en los jardines de infancia. La opción A es la más lógica para un proyecto del 'Schulamt' (oficina escolar) en este contexto.",
+    "vocabulary": [
+      {
+        "de": "Computer",
+        "es": "ordenador"
+      },
+      {
+        "de": "Kindergarten",
+        "es": "guardería"
+      },
+      {
+        "de": "Projekt",
+        "es": "proyecto"
+      },
+      {
+        "de": "Schulamt",
+        "es": "oficina escolar"
+      },
+      {
+        "de": "aufstellen",
+        "es": "instalar/colocar"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21332,8 +23294,29 @@
       "C) wussten nicht, wann sie ins Studio im Netz gehen sollten."
     ],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El texto describe a Anne y Melanie como 'Problemlöser' (solucionadoras de problemas) en el jardín de infancia. Esto implica que están activas y disfrutan de la actividad. La opción A es la más coherente con esta descripción.",
+    "vocabulary": [
+      {
+        "de": "Kinder",
+        "es": "niños"
+      },
+      {
+        "de": "Spaß",
+        "es": "diversión"
+      },
+      {
+        "de": "Projekt",
+        "es": "proyecto"
+      },
+      {
+        "de": "Problemlöser",
+        "es": "solucionador de problemas"
+      },
+      {
+        "de": "Erzieherinnen",
+        "es": "educadoras"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21354,8 +23337,29 @@
       "C) ihre Kinder vor dem Computer Angst haben."
     ],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "Esta pregunta se refiere a una preocupación común de los padres sobre el uso de computadoras por parte de los niños. Aunque el texto completo no está aquí, la opción A es una preocupación típica y plausible en este contexto.",
+    "vocabulary": [
+      {
+        "de": "Eltern",
+        "es": "padres"
+      },
+      {
+        "de": "fürchten",
+        "es": "temer"
+      },
+      {
+        "de": "schaden",
+        "es": "dañar"
+      },
+      {
+        "de": "Computer",
+        "es": "ordenador"
+      },
+      {
+        "de": "Kinder",
+        "es": "niños"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21376,8 +23380,25 @@
       "C) wählen für die Kinder die Software aus."
     ],
     "correct": "C",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción C es correcta. Aunque el texto proporcionado es incompleto, el rol de las educadoras es seleccionar el software adecuado. Las niñas Anne y Melanie les dan \"Vorschläge\" (sugerencias), lo que implica que las educadoras toman la decisión final. Las otras opciones no se mencionan en el fragmento.",
+    "vocabulary": [
+      {
+        "de": "Erzieherinnen",
+        "es": "Educadoras"
+      },
+      {
+        "de": "Vorschläge",
+        "es": "Sugerencias"
+      },
+      {
+        "de": "Software",
+        "es": "Software"
+      },
+      {
+        "de": "auswählen",
+        "es": "Seleccionar"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21398,8 +23419,25 @@
       "C) können sich die meisten nicht lange konzentrieren. VERA ‫"
     ],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción B es correcta. El texto proporcionado es incompleto y no contiene información directa sobre este punto. Sin embargo, en un contexto de kindergarten, es común que los niños se ayuden mutuamente, especialmente con tareas como el uso del ordenador. Las otras opciones no se mencionan en el fragmento.",
+    "vocabulary": [
+      {
+        "de": "Kinder",
+        "es": "Niños"
+      },
+      {
+        "de": "helfen",
+        "es": "Ayudar"
+      },
+      {
+        "de": "Computer",
+        "es": "Ordenador"
+      },
+      {
+        "de": "Streit",
+        "es": "Pelea"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21417,8 +23455,25 @@
     "question_es": "",
     "options": [],
     "correct": "D",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción D es correcta. Esta opción se relaciona con el deseo de ver un film de una actriz nueva o poco conocida. Las otras opciones no coinciden con este interés específico.",
+    "vocabulary": [
+      {
+        "de": "unbekannt",
+        "es": "Desconocido/a"
+      },
+      {
+        "de": "Schauspielerin",
+        "es": "Actriz"
+      },
+      {
+        "de": "Film",
+        "es": "Película"
+      },
+      {
+        "de": "sehen",
+        "es": "Ver"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -21437,8 +23492,25 @@
     "question_es": "",
     "options": [],
     "correct": "G",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción G es correcta. Esta opción se refiere a la búsqueda de un nuevo puesto de trabajo, específicamente en un hotel, y con experiencia previa. Las otras opciones no encajan con este perfil.",
+    "vocabulary": [
+      {
+        "de": "Hotel",
+        "es": "Hotel"
+      },
+      {
+        "de": "gearbeitet",
+        "es": "Trabajado"
+      },
+      {
+        "de": "Stelle",
+        "es": "Puesto de trabajo"
+      },
+      {
+        "de": "suchen",
+        "es": "Buscar"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -21457,8 +23529,25 @@
     "question_es": "",
     "options": [],
     "correct": "F",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción F es correcta. Esta opción corresponde a alguien interesado en la protección del medio ambiente y que busca un programa de televisión o radio sobre el tema. Las demás opciones no tratan este asunto.",
+    "vocabulary": [
+      {
+        "de": "Umweltschutz",
+        "es": "Protección del medio ambiente"
+      },
+      {
+        "de": "Sendung",
+        "es": "Programa (de radio/TV)"
+      },
+      {
+        "de": "interessieren",
+        "es": "Interesar"
+      },
+      {
+        "de": "passend",
+        "es": "Adecuado/a"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -21477,8 +23566,25 @@
     "question_es": "",
     "options": [],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción A es correcta. Esta opción describe la necesidad de un amigo que estudia cine y busca un lugar para hacer prácticas. Las otras opciones no coinciden con esta búsqueda.",
+    "vocabulary": [
+      {
+        "de": "Freund",
+        "es": "Amigo"
+      },
+      {
+        "de": "Institut",
+        "es": "Instituto"
+      },
+      {
+        "de": "Praktikumsplatz",
+        "es": "Plaza de prácticas"
+      },
+      {
+        "de": "studieren",
+        "es": "Estudiar"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -21497,8 +23603,25 @@
     "question_es": "",
     "options": [],
     "correct": "I",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción I es correcta. Esta opción se refiere a un programa de televisión que informa sobre la política actual en Alemania, lo que encaja con el deseo de informarse. Las demás opciones no tratan este tema.",
+    "vocabulary": [
+      {
+        "de": "Sendereihe",
+        "es": "Serie de programas"
+      },
+      {
+        "de": "Fernsehen",
+        "es": "Televisión"
+      },
+      {
+        "de": "politisch",
+        "es": "Político/a"
+      },
+      {
+        "de": "informieren",
+        "es": "Informar(se)"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -21517,8 +23640,25 @@
     "question_es": "",
     "options": [],
     "correct": "K",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción K es correcta. Esta opción describe el interés en el desarrollo urbano moderno y la búsqueda de un programa de radio sobre ello. Las otras opciones no son relevantes.",
+    "vocabulary": [
+      {
+        "de": "Stadtentwicklung",
+        "es": "Desarrollo urbano"
+      },
+      {
+        "de": "modern",
+        "es": "Moderno/a"
+      },
+      {
+        "de": "Sendung",
+        "es": "Programa (de radio/TV)"
+      },
+      {
+        "de": "Rundfunk",
+        "es": "Radio"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -21537,8 +23677,21 @@
     "question_es": "",
     "options": [],
     "correct": "X",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La pregunta busca una oferta de formación ('Ausbildung') en la empresa de trenes alemana ('Deutsche Bahn'). La respuesta correcta 'X' sería el texto que contenga esta información. No se proporcionan opciones incorrectas, ya que es un ejercicio de emparejamiento con textos no incluidos.",
+    "vocabulary": [
+      {
+        "de": "Ausbildung",
+        "es": "formación profesional"
+      },
+      {
+        "de": "Deutsche Bahn",
+        "es": "Ferrocarriles Alemanes"
+      },
+      {
+        "de": "machen",
+        "es": "hacer"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -21557,8 +23710,25 @@
     "question_es": "",
     "options": [],
     "correct": "J",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La pregunta busca un evento relacionado con teatro político ('politisches Theater') para el fin de semana ('Wochenende'), para escuchar o ver ('hören oder sehen'). La respuesta correcta 'J' sería el texto que ofrezca esta actividad. No se proporcionan opciones incorrectas, ya que es un ejercicio de emparejamiento con textos no incluidos.",
+    "vocabulary": [
+      {
+        "de": "politisches Theater",
+        "es": "teatro político"
+      },
+      {
+        "de": "Wochenende",
+        "es": "fin de semana"
+      },
+      {
+        "de": "hören",
+        "es": "escuchar"
+      },
+      {
+        "de": "sehen",
+        "es": "ver"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -21577,8 +23747,25 @@
     "question_es": "",
     "options": [],
     "correct": "L",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La pregunta busca un trabajo ('Tätigkeit') en una empresa de publicidad ('Werbefirma') donde se pueda trabajar en equipo ('mit anderen zusammenarbeiten'). La respuesta correcta 'L' sería el texto que describa esta oportunidad. No se proporcionan opciones incorrectas, ya que es un ejercicio de emparejamiento con textos no incluidos.",
+    "vocabulary": [
+      {
+        "de": "zusammenarbeiten",
+        "es": "trabajar juntos"
+      },
+      {
+        "de": "Werbefirma",
+        "es": "empresa de publicidad"
+      },
+      {
+        "de": "Tätigkeit",
+        "es": "actividad/trabajo"
+      },
+      {
+        "de": "suchen",
+        "es": "buscar"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -21597,8 +23784,29 @@
     "question_es": "",
     "options": [],
     "correct": "H",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La pregunta busca un trabajo ('Job') para estudiantes de idiomas ('Fremdsprachen studieren') que permita trabajar con niños ('mit Kindern arbeiten'). La respuesta correcta 'H' sería el texto que ofrezca este tipo de empleo. No se proporcionan opciones incorrectas, ya que es un ejercicio de emparejamiento con textos no incluidos.",
+    "vocabulary": [
+      {
+        "de": "Fremdsprachen",
+        "es": "idiomas extranjeros"
+      },
+      {
+        "de": "studieren",
+        "es": "estudiar"
+      },
+      {
+        "de": "Job",
+        "es": "trabajo"
+      },
+      {
+        "de": "Kinder",
+        "es": "niños"
+      },
+      {
+        "de": "arbeiten",
+        "es": "trabajar"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -21621,8 +23829,25 @@
       "C) zum"
     ],
     "correct": "a",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La frase es 'in einem Haus (21)Mittelnehmer in Spanien'. Asumiendo que 'Mittelnehmer' es un error tipográfico y se refiere a 'Mittelmeer' (Mediterráneo), la preposición correcta es 'am'. 'Am' es la contracción de 'an dem' y se usa para indicar una ubicación 'en' o 'junto a' un lugar geográfico, como una costa o un mar. La opción 'in' ya se usa para 'Haus'. La opción 'zum' indica dirección o propósito, no ubicación.",
+    "vocabulary": [
+      {
+        "de": "am",
+        "es": "en/junto a (contracción de an dem)"
+      },
+      {
+        "de": "Mittelmeer",
+        "es": "Mediterráneo"
+      },
+      {
+        "de": "Haus",
+        "es": "casa"
+      },
+      {
+        "de": "Präposition",
+        "es": "preposición"
+      }
+    ],
     "flags": []
   },
   {
@@ -21642,8 +23867,25 @@
       "C) schon"
     ],
     "correct": "c",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La frase es 'Aber dann sind sie doch (22) früher gefahren.' La palabra 'schon' (ya) encaja perfectamente para indicar que se fueron 'ya' antes de lo esperado. La opción 'bloß' (solo, meramente) no tiene sentido en este contexto. La opción 'Freundin' (amiga) es un sustantivo y no es una opción gramaticalmente válida para el hueco.",
+    "vocabulary": [
+      {
+        "de": "schon",
+        "es": "ya"
+      },
+      {
+        "de": "früher",
+        "es": "antes"
+      },
+      {
+        "de": "gefahren",
+        "es": "ido/viajado"
+      },
+      {
+        "de": "Adverb",
+        "es": "adverbio"
+      }
+    ],
     "flags": []
   },
   {
@@ -21662,8 +23904,25 @@
       "C) meinem meinen"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La pregunta se refiere a la 'Lücke 23'. El contexto completo de la frase para el hueco 23 no está disponible en la información proporcionada. Sin embargo, la respuesta correcta indicada es 'meinem'. 'Meinem' es la forma dativa del pronombre posesivo 'mein' (mi), usado con sustantivos masculinos o neutros en dativo (ej. 'mit meinem Freund', 'in meinem Haus'). Las opciones proporcionadas en la pregunta son confusas y no permiten una explicación detallada de por qué fallan las otras.",
+    "vocabulary": [
+      {
+        "de": "meinem",
+        "es": "mi (dativo, masculino/neutro)"
+      },
+      {
+        "de": "Possessivpronomen",
+        "es": "pronombre posesivo"
+      },
+      {
+        "de": "Dativ",
+        "es": "dativo"
+      },
+      {
+        "de": "Kasus",
+        "es": "caso gramatical"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21685,8 +23944,25 @@
       "C) zum mir"
     ],
     "correct": "c",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La pregunta se refiere a la 'Lücke 24'. El contexto completo de la frase para el hueco 24 no está disponible en la información proporcionada. Sin embargo, la respuesta correcta indicada es 'mir'. 'Mir' es la forma dativa del pronombre personal 'ich' (yo), usado como objeto indirecto o después de ciertas preposiciones (ej. 'Gib mir das Buch', 'mit mir'). Las opciones proporcionadas en la pregunta son confusas y 'zum mir' es incorrecto gramaticalmente. No se puede explicar por qué fallan las otras opciones sin el contexto completo.",
+    "vocabulary": [
+      {
+        "de": "mir",
+        "es": "a mí/me (dativo)"
+      },
+      {
+        "de": "Personalpronomen",
+        "es": "pronombre personal"
+      },
+      {
+        "de": "Dativ",
+        "es": "dativo"
+      },
+      {
+        "de": "Kasus",
+        "es": "caso gramatical"
+      }
+    ],
     "flags": []
   },
   {
@@ -21705,8 +23981,21 @@
       "C) schon"
     ],
     "correct": "c",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción correcta es 'schon' (ya). Se usa para indicar que algo ha ocurrido antes de lo esperado. 'Erst' (solo, no hasta) indica lo contrario. Sin la frase completa, la explicación es general. La respuesta 'c' corresponde a 'schon'.",
+    "vocabulary": [
+      {
+        "de": "schon",
+        "es": "ya"
+      },
+      {
+        "de": "erst",
+        "es": "solo/no hasta"
+      },
+      {
+        "de": "früh",
+        "es": "temprano"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21728,8 +24017,25 @@
       "C) Seit"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La información proporcionada es contradictoria. El contexto indica que la respuesta correcta para la Lücke 26 es 'obwohl', pero la opción marcada como correcta ('b') es 'wenigen Freundinnen Bis'. No es posible dar una explicación coherente. La respuesta correcta es '?'.",
+    "vocabulary": [
+      {
+        "de": "obwohl",
+        "es": "aunque"
+      },
+      {
+        "de": "trotz",
+        "es": "a pesar de"
+      },
+      {
+        "de": "wenig",
+        "es": "poco"
+      },
+      {
+        "de": "Freundin",
+        "es": "amiga"
+      }
+    ],
     "flags": []
   },
   {
@@ -21747,8 +24053,17 @@
       "A) bloß"
     ],
     "correct": "a",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La información proporcionada es contradictoria. El contexto indica que la respuesta correcta para la Lücke 27 es 'daran', pero la opción marcada como correcta ('a') es 'bloß'. No es posible dar una explicación coherente. La respuesta correcta es '?'.",
+    "vocabulary": [
+      {
+        "de": "daran",
+        "es": "en ello/en eso"
+      },
+      {
+        "de": "bloß",
+        "es": "solo/simplemente"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21768,8 +24083,17 @@
       "B) Freundin"
     ],
     "correct": "a",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La opción marcada como correcta ('a') no está presente en la lista de opciones disponibles. Además, el contexto indica que la respuesta correcta para la Lücke 28 es 'wenig', pero no hay una opción 'a' que corresponda a esto. La respuesta correcta es '?'.",
+    "vocabulary": [
+      {
+        "de": "wenig",
+        "es": "poco"
+      },
+      {
+        "de": "Freundin",
+        "es": "amiga"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21791,8 +24115,21 @@
       "C) Oder Sondern VERA"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La información proporcionada es contradictoria. El contexto indica que la respuesta correcta para la Lücke 29 es 'Oder', pero la opción marcada como correcta ('b') es 'weniger'. No es posible dar una explicación coherente. La respuesta correcta es '?'.",
+    "vocabulary": [
+      {
+        "de": "Oder",
+        "es": "o"
+      },
+      {
+        "de": "weniger",
+        "es": "menos"
+      },
+      {
+        "de": "Damit",
+        "es": "para que"
+      }
+    ],
     "flags": []
   },
   {
@@ -21810,8 +24147,17 @@
       "B) darüber"
     ],
     "correct": "b",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La información proporcionada es contradictoria. El contexto indica que la respuesta correcta para la Lücke 30 es 'Bis', pero la opción marcada como correcta ('b') es 'darüber'. No es posible dar una explicación coherente. La respuesta correcta es '?'.",
+    "vocabulary": [
+      {
+        "de": "Bis",
+        "es": "hasta"
+      },
+      {
+        "de": "darüber",
+        "es": "sobre ello/encima de ello"
+      }
+    ],
     "flags": [
       "options_missing"
     ]
@@ -21845,8 +24191,25 @@
       "O) WÜRDEN"
     ],
     "correct": "D",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La frase necesita un participio pasado para formar el 'Perfekt' (pretérito perfecto) con el verbo 'haben'. 'Entdeckt' (descubierto) es el participio pasado de 'entdecken' (descubrir) y encaja perfectamente en el contexto de 'descubrir un anuncio'. Las otras opciones no son participios o no tienen sentido aquí.",
+    "vocabulary": [
+      {
+        "de": "entdecken",
+        "es": "descubrir"
+      },
+      {
+        "de": "die Anzeige",
+        "es": "el anuncio"
+      },
+      {
+        "de": "haben",
+        "es": "tener/haber"
+      },
+      {
+        "de": "Perfekt",
+        "es": "pretérito perfecto"
+      }
+    ],
     "flags": []
   },
   {
@@ -21878,8 +24241,25 @@
       "O) WÜRDEN"
     ],
     "correct": "M",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "'Weil' (porque) introduce una oración subordinada que explica la razón. La estructura gramatical con el verbo al final ('wir Lust hätten') es correcta para una oración con 'weil'. Las otras opciones no son conjunciones de causa o no encajan gramaticalmente.",
+    "vocabulary": [
+      {
+        "de": "weil",
+        "es": "porque"
+      },
+      {
+        "de": "Lust haben",
+        "es": "tener ganas"
+      },
+      {
+        "de": "schreiben",
+        "es": "escribir"
+      },
+      {
+        "de": "Grund",
+        "es": "razón"
+      }
+    ],
     "flags": []
   },
   {
@@ -21911,8 +24291,21 @@
       "O) WÜRDEN"
     ],
     "correct": "N",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La palabra 'wenn' introduce una oración condicional o temporal. Aquí, 'wenn wir Lust hätten' significa 'si tuviéramos ganas'. Es una condición para hacer algo en grupo. 'Weil' (porque) introduce una razón, no una condición. 'Wann' (cuándo) es para preguntas de tiempo.",
+    "vocabulary": [
+      {
+        "de": "wenn",
+        "es": "si (condicional)"
+      },
+      {
+        "de": "Lust haben",
+        "es": "tener ganas"
+      },
+      {
+        "de": "Bedingung",
+        "es": "condición"
+      }
+    ],
     "flags": []
   },
   {
@@ -21944,7 +24337,7 @@
       "O) WÜRDEN"
     ],
     "correct": "?",
-    "explanation_es": "",
+    "explanation_es": "La respuesta correcta es '?'. No puedo dar una explicación.",
     "vocabulary": [],
     "flags": [
       "missing_answer_key"
@@ -21979,8 +24372,21 @@
       "O) WÜRDEN"
     ],
     "correct": "G",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La expresión 'sich auskennen' significa 'conocer bien un lugar' o 'saber orientarse'. En este contexto, 'Wir kennen uns dort gut aus' significa 'Nos conocemos bien allí'. 'Lernen' (aprender) no encaja con la estructura 'sich aus'.",
+    "vocabulary": [
+      {
+        "de": "sich auskennen",
+        "es": "conocer bien (un lugar)"
+      },
+      {
+        "de": "gut",
+        "es": "bien"
+      },
+      {
+        "de": "Berge",
+        "es": "montañas"
+      }
+    ],
     "flags": []
   },
   {
@@ -22012,8 +24418,21 @@
       "O) WÜRDEN"
     ],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "'Aber' (pero) se usa para introducir un contraste. La frase anterior dice que conocen bien la zona, y la siguiente expresa un deseo de probar algo nuevo. 'Aber' conecta estas dos ideas opuestas. 'Weil' (porque) daría una razón, no un contraste.",
+    "vocabulary": [
+      {
+        "de": "aber",
+        "es": "pero"
+      },
+      {
+        "de": "Kontrast",
+        "es": "contraste"
+      },
+      {
+        "de": "probieren",
+        "es": "probar"
+      }
+    ],
     "flags": []
   },
   {
@@ -22045,8 +24464,21 @@
       "O) WÜRDEN"
     ],
     "correct": "K",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "El verbo 'sich freuen' (alegrarse) es reflexivo. 'Uns' es el pronombre reflexivo para 'wir' (nosotros). 'Wir würden uns freuen' significa 'Nos alegraríamos'. Es una construcción estándar del Konjunktiv II con un verbo reflexivo.",
+    "vocabulary": [
+      {
+        "de": "sich freuen",
+        "es": "alegrarse"
+      },
+      {
+        "de": "uns",
+        "es": "nos (reflexivo)"
+      },
+      {
+        "de": "reflexiv",
+        "es": "reflexivo"
+      }
+    ],
     "flags": []
   },
   {
@@ -22078,8 +24510,21 @@
       "O) WÜRDEN"
     ],
     "correct": "O",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "'Würden' se usa para formar el Konjunktiv II (condicional) en alemán. 'Wenn Sie uns aufnehmen würden' significa 'Si nos aceptaran'. Expresa un deseo o una condición hipotética. 'Hatten' es el pasado de 'haben' (tener), no forma el condicional.",
+    "vocabulary": [
+      {
+        "de": "würden",
+        "es": "harían (condicional)"
+      },
+      {
+        "de": "Konjunktiv II",
+        "es": "subjuntivo II"
+      },
+      {
+        "de": "aufnehmen",
+        "es": "aceptar, incluir"
+      }
+    ],
     "flags": []
   },
   {
@@ -22111,8 +24556,21 @@
       "O) WÜRDEN"
     ],
     "correct": "J",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "'Ein Paar' significa 'una pareja'. El texto habla de 'mein Mann und ich', lo que indica que son una pareja. 'Sportliches Paar' describe a una pareja activa. 'Oft' (a menudo) es un adverbio y no encaja aquí.",
+    "vocabulary": [
+      {
+        "de": "Paar",
+        "es": "pareja"
+      },
+      {
+        "de": "sportlich",
+        "es": "deportivo"
+      },
+      {
+        "de": "Natur",
+        "es": "naturaleza"
+      }
+    ],
     "flags": []
   },
   {
@@ -22144,8 +24602,21 @@
       "O) WÜRDEN"
     ],
     "correct": "C",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "'Einmal' en este contexto significa 'alguna vez' o 'en algún momento'. 'Wir möchten Sie einmal persönlich kennenlernen' expresa el deseo de conocer a la persona en el futuro. 'Oft' (a menudo) no tiene sentido aquí, ya que es la primera vez que se contactan.",
+    "vocabulary": [
+      {
+        "de": "einmal",
+        "es": "alguna vez"
+      },
+      {
+        "de": "persönlich",
+        "es": "personalmente"
+      },
+      {
+        "de": "kennenlernen",
+        "es": "conocer (a alguien)"
+      }
+    ],
     "flags": []
   },
   {
@@ -22172,8 +24643,29 @@
       "J) Neue Verkehrsregeln für Autofahrer"
     ],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta indicada es \"B\". Sin embargo, el texto trata sobre cómo hombres y mujeres se orientan y piden ayuda, no sobre viajes en tren o personas mayores. La opción \"F) Frauen finden den richtigen Weg\" sería la más adecuada según el texto. La opción \"B\" no se relaciona con el contenido del texto.",
+    "vocabulary": [
+      {
+        "de": "Ziel",
+        "es": "destino"
+      },
+      {
+        "de": "sich zurechtfinden",
+        "es": "orientarse"
+      },
+      {
+        "de": "nach dem Weg fragen",
+        "es": "preguntar el camino"
+      },
+      {
+        "de": "Hilfe bitten",
+        "es": "pedir ayuda"
+      },
+      {
+        "de": "Erziehung",
+        "es": "educación"
+      }
+    ],
     "flags": []
   },
   {
@@ -22200,8 +24692,29 @@
       "J) Neue Verkehrsregeln für Autofahrer"
     ],
     "correct": "D",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta indicada es \"D\". Sin embargo, el texto habla sobre la lectura en el tren y que las mujeres leen más que los hombres. La opción \"D) Männer fahren besser\" (Los hombres conducen mejor) no se relaciona con el contenido del texto. La opción \"I) Lesen im Zug ist beliebt\" sería la más adecuada según el texto.",
+    "vocabulary": [
+      {
+        "de": "Bahnfahren",
+        "es": "viajar en tren"
+      },
+      {
+        "de": "entspannend",
+        "es": "relajante"
+      },
+      {
+        "de": "lesen",
+        "es": "leer"
+      },
+      {
+        "de": "lesefreudiger",
+        "es": "más aficionado a la lectura"
+      },
+      {
+        "de": "Studie",
+        "es": "estudio"
+      }
+    ],
     "flags": []
   },
   {
@@ -22228,8 +24741,29 @@
       "J) Neue Verkehrsregeln für Autofahrer"
     ],
     "correct": "C",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta indicada es \"C\". Sin embargo, el texto describe un servicio de acompañamiento para personas que necesitan ayuda al viajar en transporte público. La opción \"C) Per Internet leichter ans Ziel\" (Más fácil llegar al destino por internet) no se relaciona con el contenido del texto. La opción \"E) Hilfe beim Reisen mit der Bahn\" sería la más adecuada según el texto.",
+    "vocabulary": [
+      {
+        "de": "Verein",
+        "es": "asociación"
+      },
+      {
+        "de": "begleiten",
+        "es": "acompañar"
+      },
+      {
+        "de": "Dienstleistung",
+        "es": "servicio"
+      },
+      {
+        "de": "Hilfe angewiesen sein",
+        "es": "necesitar ayuda"
+      },
+      {
+        "de": "öffentliche Verkehrsmittel",
+        "es": "transporte público"
+      }
+    ],
     "flags": []
   },
   {
@@ -22256,8 +24790,29 @@
       "J) Neue Verkehrsregeln für Autofahrer"
     ],
     "correct": "A",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta indicada es \"A\". Sin embargo, el texto trata sobre cursos de idiomas ofrecidos en trenes, especialmente en Solothurn. La opción \"A) Nur wenige lesen im Zug\" (Pocos leen en el tren) no se relaciona con el contenido del texto. Las opciones \"G) Neuer Deutschkurs in Solothurn\" o \"H) Jetzt wird auch im Zug gelernt\" serían las más adecuadas según el texto.",
+    "vocabulary": [
+      {
+        "de": "Volkshochschule",
+        "es": "escuela de adultos"
+      },
+      {
+        "de": "Kurse anbieten",
+        "es": "ofrecer cursos"
+      },
+      {
+        "de": "Pendler",
+        "es": "viajeros diarios"
+      },
+      {
+        "de": "Sprachen lernen",
+        "es": "aprender idiomas"
+      },
+      {
+        "de": "Bahnfahrt",
+        "es": "viaje en tren"
+      }
+    ],
     "flags": []
   },
   {
@@ -22284,8 +24839,29 @@
       "J) Neue Verkehrsregeln für Autofahrer"
     ],
     "correct": "G",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta indicada es \"G\". Sin embargo, el texto explica cómo el horario de trenes suizo en internet ahora permite buscar conexiones de dirección a dirección. La opción \"G) Neuer Deutschkurs in Solothurn\" (Nuevo curso de alemán en Solothurn) no se relaciona con el contenido del texto. La opción \"C) Per Internet leichter ans Ziel\" sería la más adecuada según el texto.",
+    "vocabulary": [
+      {
+        "de": "Fahrplan",
+        "es": "horario"
+      },
+      {
+        "de": "Bundesbahnen",
+        "es": "ferrocarriles federales"
+      },
+      {
+        "de": "Verbindungen abfragen",
+        "es": "consultar conexiones"
+      },
+      {
+        "de": "Zieladresse",
+        "es": "dirección de destino"
+      },
+      {
+        "de": "öffentlicher Verkehr",
+        "es": "transporte público"
+      }
+    ],
     "flags": []
   },
   {
@@ -22305,8 +24881,29 @@
       "C) zeichnet Pläne für eine Große Baufirma."
     ],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta indicada es \"B\". Sin embargo, el texto dice que Iris Eigenmann es una \"Raumberaterin\" (consultora de espacios) que diseña habitaciones según el Feng Shui para que la gente se sienta bien. La opción \"B) hilft Menschen bei der richtigen Berufswahl\" (ayuda a la gente a elegir la profesión correcta) no se relaciona con su trabajo. La opción \"A) berät Kunden beim Aufstellen von Möbeln in Wohnungen und Büros\" sería la más adecuada según el texto.",
+    "vocabulary": [
+      {
+        "de": "Raumberater",
+        "es": "consultor de espacios"
+      },
+      {
+        "de": "gestalten",
+        "es": "diseñar"
+      },
+      {
+        "de": "wohlfühlen",
+        "es": "sentirse bien"
+      },
+      {
+        "de": "selbstständig",
+        "es": "autónomo"
+      },
+      {
+        "de": "Energie",
+        "es": "energía"
+      }
+    ],
     "flags": []
   },
   {
@@ -22326,8 +24923,29 @@
       "C) Materialien für neue Bauprojekte zu entwickeln."
     ],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta indicada es \"B\". Sin embargo, el texto indica que Iris Eigenmann se ocupa de \"Räume nach der chinesischen Lehre Feng – Shui zu gestalten, damit sich die Menschen wohl Fühlen\". Esto significa que su objetivo es que las personas se sientan bien en los espacios. La opción \"A) dass sich Menschen in Wohn – und Arbeitsräumen wohler fühlen\" coincide directamente con esta descripción. La opción \"B) chinesische Möbel in Europa zu verkaufen\" no se menciona en el texto.",
+    "vocabulary": [
+      {
+        "de": "Raumberaterin",
+        "es": "consultora de espacios (femenino)"
+      },
+      {
+        "de": "kümmern um",
+        "es": "ocuparse de"
+      },
+      {
+        "de": "wohler fühlen",
+        "es": "sentirse mejor"
+      },
+      {
+        "de": "Wohnräume",
+        "es": "espacios habitables"
+      },
+      {
+        "de": "Arbeitsräume",
+        "es": "espacios de trabajo"
+      }
+    ],
     "flags": []
   },
   {
@@ -22347,8 +24965,29 @@
       "C) schicken Frau Eigenmann zuerst einen Plan der Wohnung."
     ],
     "correct": "C",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta indicada es \"C\". Sin embargo, el texto proporcionado para esta pregunta está incompleto (\"Die diplomier\") y no contiene la información necesaria sobre cómo los clientes se ponen en contacto con Iris Eigenmann o qué hacen primero. Por lo tanto, no es posible determinar la respuesta correcta basándose únicamente en el texto dado.",
+    "vocabulary": [
+      {
+        "de": "beraten lassen",
+        "es": "dejarse aconsejar"
+      },
+      {
+        "de": "Wünsche besprechen",
+        "es": "discutir deseos"
+      },
+      {
+        "de": "einladen",
+        "es": "invitar"
+      },
+      {
+        "de": "Wohnung",
+        "es": "vivienda"
+      },
+      {
+        "de": "Plan schicken",
+        "es": "enviar un plano"
+      }
+    ],
     "flags": []
   },
   {
@@ -22368,8 +25007,25 @@
       "C) wollen auch ihre wirtschaftliche Lage verbessern."
     ],
     "correct": "C",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?' porque el texto proporcionado está incompleto. No hay información sobre los 'Firmenkunden' de la Sra. Eigenmann ni sobre sus motivaciones económicas. Por lo tanto, no podemos verificar la opción C.",
+    "vocabulary": [
+      {
+        "de": "Firmenkunden",
+        "es": "clientes de empresa"
+      },
+      {
+        "de": "wirtschaftliche Lage",
+        "es": "situación económica"
+      },
+      {
+        "de": "verbessern",
+        "es": "mejorar"
+      },
+      {
+        "de": "Kontext fehlt",
+        "es": "falta contexto"
+      }
+    ],
     "flags": []
   },
   {
@@ -22389,8 +25045,25 @@
       "C) viel Geld verdienen. VIKTOR ‫"
     ],
     "correct": "C",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?' porque el texto proporcionado está incompleto. No se menciona qué quiere hacer la Sra. Eigenmann en el futuro, ni si quiere ganar mucho dinero. Por lo tanto, no podemos verificar la opción C.",
+    "vocabulary": [
+      {
+        "de": "in Zukunft",
+        "es": "en el futuro"
+      },
+      {
+        "de": "Geld verdienen",
+        "es": "ganar dinero"
+      },
+      {
+        "de": "Kontext fehlt",
+        "es": "falta contexto"
+      },
+      {
+        "de": "Pläne",
+        "es": "planes"
+      }
+    ],
     "flags": []
   },
   {
@@ -22406,8 +25079,25 @@
     "question_es": "",
     "options": [],
     "correct": "E",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?' porque faltan las opciones de texto (anuncios, etc.) para emparejar con la pregunta. Sin el contexto completo, no se puede determinar qué opción (E) es la correcta para 'interesarse por una nueva lavadora'.",
+    "vocabulary": [
+      {
+        "de": "Waschmaschine",
+        "es": "lavadora"
+      },
+      {
+        "de": "interessiert sich für",
+        "es": "se interesa por"
+      },
+      {
+        "de": "Matching-Aufgabe",
+        "es": "tarea de emparejamiento"
+      },
+      {
+        "de": "Kontext fehlt",
+        "es": "falta contexto"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -22426,8 +25116,25 @@
     "question_es": "",
     "options": [],
     "correct": "F",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?' porque faltan las opciones de texto para emparejar. No se puede determinar qué opción (F) es la correcta para 'buscar un puesto de prácticas en un periódico'.",
+    "vocabulary": [
+      {
+        "de": "Praktikumsplatz",
+        "es": "puesto de prácticas"
+      },
+      {
+        "de": "Zeitung",
+        "es": "periódico"
+      },
+      {
+        "de": "suchen",
+        "es": "buscar"
+      },
+      {
+        "de": "Kontext fehlt",
+        "es": "falta contexto"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -22446,8 +25153,25 @@
     "question_es": "",
     "options": [],
     "correct": "B",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?' porque faltan las opciones de texto para emparejar. No se puede determinar qué opción (B) es la correcta para 'querer aprender a tocar un nuevo instrumento musical'.",
+    "vocabulary": [
+      {
+        "de": "Musikinstrument",
+        "es": "instrumento musical"
+      },
+      {
+        "de": "spielen lernen",
+        "es": "aprender a tocar"
+      },
+      {
+        "de": "neu",
+        "es": "nuevo"
+      },
+      {
+        "de": "Kontext fehlt",
+        "es": "falta contexto"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -22466,8 +25190,25 @@
     "question_es": "",
     "options": [],
     "correct": "K",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?' porque faltan las opciones de texto para emparejar. No se puede determinar qué opción (K) es la correcta para 'problemas con el agua en baño y cocina'.",
+    "vocabulary": [
+      {
+        "de": "Wohnung",
+        "es": "apartamento"
+      },
+      {
+        "de": "Probleme mit Wasser",
+        "es": "problemas con el agua"
+      },
+      {
+        "de": "Bad und Küche",
+        "es": "baño y cocina"
+      },
+      {
+        "de": "Kontext fehlt",
+        "es": "falta contexto"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -22486,8 +25227,25 @@
     "question_es": "",
     "options": [],
     "correct": "C",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?' porque faltan las opciones de texto para emparejar. No se puede determinar qué opción (C) es la correcta para 'la vivienda está siempre fría'.",
+    "vocabulary": [
+      {
+        "de": "Wohnung",
+        "es": "apartamento"
+      },
+      {
+        "de": "immer zu kalt",
+        "es": "siempre demasiado frío"
+      },
+      {
+        "de": "ändern",
+        "es": "cambiar"
+      },
+      {
+        "de": "Kontext fehlt",
+        "es": "falta contexto"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"
@@ -22506,8 +25264,25 @@
     "question_es": "",
     "options": [],
     "correct": "J",
-    "explanation_es": "",
-    "vocabulary": [],
+    "explanation_es": "La respuesta correcta es '?' porque faltan las opciones de texto para emparejar. No se puede determinar qué opción (J) es la correcta para 'buscar un profesor de piano para la hija'.",
+    "vocabulary": [
+      {
+        "de": "Klavierlehrer",
+        "es": "profesor de piano"
+      },
+      {
+        "de": "Tochter",
+        "es": "hija"
+      },
+      {
+        "de": "suchen",
+        "es": "buscar"
+      },
+      {
+        "de": "Kontext fehlt",
+        "es": "falta contexto"
+      }
+    ],
     "flags": [
       "options_missing",
       "ads_missing"

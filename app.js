@@ -310,6 +310,13 @@ function renderReview() {
   `).join('') || '<p class="muted">Sin resultados.</p>';
 }
 
+function resetProgress() {
+  if (confirm('¿Estás seguro? Se perderá todo el progreso guardado.')) {
+    localStorage.clear();
+    location.reload();
+  }
+}
+
 function renderProgress() {
   const sectionKeys = [
     'Leseverstehen T1',
@@ -402,6 +409,8 @@ function renderProgress() {
       <div>${forecast.paceMessage}</div>
       ${forecast.milestones}
     </div>
+
+    <button onclick="resetProgress()" style="margin-top:20px;width:100%;padding:14px;border-radius:12px;border:1px solid var(--bad);background:rgba(220,53,69,0.15);color:var(--bad);font-size:0.95rem;font-weight:600;cursor:pointer;">🗑️ Resetear progreso</button>
   `;
 }
 
