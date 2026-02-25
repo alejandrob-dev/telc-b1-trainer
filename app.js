@@ -3,6 +3,7 @@ const INACTIVITY_MS = 2 * 60 * 1000;
 
 const state = {
   mode: 'quiz',
+  showTranslation: loadTranslationPref(),
   questions: [],
   byId: new Map(),
   quizCurrent: null,
@@ -41,6 +42,7 @@ const el = {
   goalStatus: document.getElementById('goalStatus'),
   goalFill: document.getElementById('goalFill'),
   confettiLayer: document.getElementById('confettiLayer'),
+  translationToggle: document.getElementById('translationToggle'),
 };
 
 init();
@@ -80,6 +82,16 @@ function bindUI() {
     registerInteraction();
     renderReview();
   });
+
+  if (el.translationToggle) {
+    el.translationToggle.checked = !!state.showTranslation;
+    el.translationToggle.addEventListener('change', () => {
+      state.showTranslation = el.translationToggle.checked;
+      saveTranslationPref(state.showTranslation);
+      if (state.quizCurrent) renderQuiz(state.quizCurrent);
+      if (state.examActive) renderExamCurrent();
+    });
+  }
 
   window.addEventListener('beforeinstallprompt', (e) => {
     e.preventDefault();
@@ -134,13 +146,16 @@ function renderQuestionCard(container, q, opts = {}) {
   const options = (q.options || []).map((opt, i) => {
     const label = String(opt);
     const val = parseOptKey(label, i);
-    return `<button data-val="${escapeHtml(val)}">${escapeHtml(label)}</button>`;
+    const tr = state.showTranslation ? optionTranslation(q, label) : '';
+    return `<button data-val="${escapeHtml(val)}">${escapeHtml(label)}${tr ? `<div class="translation-line">${escapeHtml(tr)}</div>` : ''}</button>`;
   }).join('');
+
+  const questionEs = state.showTranslation ? (q.question_es || inferQuestionTranslation(q)) : '';
 
   container.innerHTML = `
     <div class="section-tag">${escapeHtml(sec)}</div>
     <div class="context">${wrapVocab(q.context || '')}</div>
-    <div class="question">${escapeHtml(q.question || 'Pregunta')}</div>
+    <div class="question">${escapeHtml(q.question || 'Pregunta')}${questionEs ? `<div class="translation-line">${escapeHtml(questionEs)}</div>` : ''}</div>
     <div class="options">${options}</div>
     <div class="muted">Instrucción: ${escapeHtml(q.instruction || '')}</div>
     <div class="feedback" id="feedback" hidden></div>
@@ -757,6 +772,28 @@ function bindSwipe(node, onLeft) {
     const dx = e.changedTouches[0].clientX - sx;
     if (dx < -70) onLeft();
   }, { passive: true });
+}
+
+function optionTranslation(q, label) {
+  const clean = String(label).replace(/^[A-Za-zXx]\)?\s*/, '').toLowerCase();
+  const hits = (q.vocabulary || []).filter((v) => clean.includes(String(v.de || '').toLowerCase()));
+  if (hits.length) return hits.slice(0, 3).map((v) => `${v.de} = ${v.es}`).join(' · ');
+  return '';
+}
+
+function inferQuestionTranslation(q) {
+  if (q.question_es) return q.question_es;
+  if (!q.explanation_es) return '';
+  const first = q.explanation_es.split(/[.!?]\s/)[0] || '';
+  return first.length > 8 ? first : '';
+}
+
+function loadTranslationPref() {
+  return localStorage.getItem('telc_b1_show_translation') === '1';
+}
+
+function saveTranslationPref(value) {
+  localStorage.setItem('telc_b1_show_translation', value ? '1' : '0');
 }
 
 function escapeHtml(s) {
