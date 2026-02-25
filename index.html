@@ -15,6 +15,15 @@
       <h1>Entrenador telc B1</h1>
       <button id="installBtn" class="ghost" hidden>Instalar</button>
     </header>
+    <section id="goalTracker" class="goal-tracker" hidden>
+      <div class="goal-meta">
+        <strong id="goalText">0/60 min</strong>
+        <span id="goalStatus" class="muted">Objetivo diario</span>
+      </div>
+      <div class="goal-bar">
+        <div id="goalFill"></div>
+      </div>
+    </section>
 
     <main id="main" class="main">
       <section id="mode-quiz" class="mode active">
@@ -59,6 +68,7 @@
     </nav>
 
     <div id="toast" class="toast" hidden></div>
+    <div id="confettiLayer" class="confetti-layer" aria-hidden="true"></div>
     <script src="app.js"></script>
   </body>
 </html>
