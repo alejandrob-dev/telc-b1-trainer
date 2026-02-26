@@ -49,7 +49,8 @@ init();
 
 async function init() {
   const res = await fetch('data/questions.json');
-  state.questions = await res.json();
+  const allQuestions = await res.json();
+  state.questions = allQuestions.filter(q => !(q.flags && q.flags.includes('page_missing_from_pdf')));
   state.questions.forEach((q) => state.byId.set(q.id, q));
   bindUI();
   startStudyClock();
@@ -294,7 +295,7 @@ function updateExamTimer() {
 
 function renderReview() {
   const EXAM_ORDER = ['PETRA','EVA1','SOPHIE','NADIA2','NICOLE','ANDREAS','ANNIKA3','IRIS1',
-                      'CAROLINA','VERA','JENNIFER','ANDREAS2','THOMAS','TAMARA','JAN','VIKTOR','RITA'];
+                      'SONJA3','CAROLINA','VERA','JENNIFER','ANDREAS2','THOMAS','TAMARA','JAN','VIKTOR','RITA'];
   const SECTION_ORDER = [
     { section: 'Leseverstehen', teil: 1, label: 'Leseverstehen Teil 1' },
     { section: 'Leseverstehen', teil: 2, label: 'Leseverstehen Teil 2' },
